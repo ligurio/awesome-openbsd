@@ -21,7 +21,7 @@ There are many products based on OpenBSD. Information about these products and t
 - [.vantronix GmbH](http://www.vantronix.com/) offers security appliances based on OpenBSD. 
 - [Fox-IT](https://www.fox-it.com/en/) delivers specialist security and intelligence solutions for government bodies and other major organizations throughout the world. 
 - [Esdenera Networks](https://www.esdenera.com/) Networking and security technology for modern cloud-based, decentralized, mobile and software-defined networks based on OpenBSD.
-- [ATMNIS](https://atmnis.com/) - первая и единственная UNIX-подобная защищённая операционная система в Украине, сертифицированная к использованию при создании комплексных систем защиты информации (КСЗИ) классов 2 и 3.
+- [ATMNIS](https://atmnis.com/) - первая и единственная UNIX-подобная защищённая операционная система в Украине, сертифицированная к использованию при создании комплексных систем защиты информации (КСЗИ) классов 2 и 3. See [slides](https://www.atmnis.com/~apelsin/papers/).
 
 ##### Opensource products
 
