@@ -4,6 +4,7 @@
 
 * [OpenBSD-based products](#openbsd-based-products)
 * [Open vacancies](#vacancies)
+* [Conferences](#conferences)
 
 ## OpenBSD-based products
 
@@ -31,6 +32,16 @@ There are many products based on OpenBSD. Information about these products and t
 - [OpenBSD networking engineer](https://www.hermetek.com/employment)
 - [Senior developer](https://www.fishbowlvr.com/careers/senior-developer)
 - [LinkedIn](https://www.linkedin.com/jobs/openbsd-jobs)
+
+## Conferences
+
+- [EuroBSDCon](https://eurobsdcon.org/)
+- [NYCBSDCon](http://www.nycbsdcon.org/)
+- [MeetBSD](http://meetbsd.org/)
+- [AsiaBSDCon](https://asiabsdcon.org)
+- vBSDCon
+- [OpenKyev](http://www.uaoug.org.ua/openkyiv/)
+
 
 ----
 Please [donate](http://www.openbsd.org/donations.html) to the OpenBSD project.
