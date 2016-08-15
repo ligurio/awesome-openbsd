@@ -33,6 +33,12 @@ There are many products based on OpenBSD. Information about these products and t
 - [Senior developer](https://www.fishbowlvr.com/careers/senior-developer)
 - [LinkedIn](https://www.linkedin.com/jobs/openbsd-jobs)
 
+## Hosting
+
+- [RootBSD](https://www.rootbsd.net/)
+- [Amazon EC2](https://gist.github.com/reyk/b372af303eb86bab3fee#file-openbsd-amd64-20160809-aws)
+- [ARP Networks](https://www.arpnetworks.com/)
+
 ## Conferences
 
 - [EuroBSDCon](https://eurobsdcon.org/)
@@ -41,6 +47,14 @@ There are many products based on OpenBSD. Information about these products and t
 - [AsiaBSDCon](https://asiabsdcon.org)
 - vBSDCon
 - [OpenKyev](http://www.uaoug.org.ua/openkyiv/)
+
+## BSD User groups
+
+- http://www.meetup.com/topics/bsd/
+- https://www.freebsd.org/usergroups.html
+- http://www.openbsd.org/groups.html
+- http://www.netbsd.org/community/groups.html
+
 
 
 ----
