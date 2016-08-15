@@ -4,7 +4,9 @@
 
 * [OpenBSD-based products](#openbsd-based-products)
 * [Open vacancies](#vacancies)
-* [Conferences](#conferences)
+* [Events](#events)
+* [Hosting](#hosting)
+
 
 ## OpenBSD-based products
 
@@ -39,7 +41,9 @@ There are many products based on OpenBSD. Information about these products and t
 - [Amazon EC2](https://gist.github.com/reyk/b372af303eb86bab3fee#file-openbsd-amd64-20160809-aws)
 - [ARP Networks](https://www.arpnetworks.com/)
 
-## Conferences
+## Events
+
+##### Conferences
 
 - [EuroBSDCon](https://eurobsdcon.org/)
 - [NYCBSDCon](http://www.nycbsdcon.org/)
@@ -48,7 +52,7 @@ There are many products based on OpenBSD. Information about these products and t
 - vBSDCon
 - [OpenKyev](http://www.uaoug.org.ua/openkyiv/)
 
-## BSD User groups
+##### BSD User groups
 
 - http://www.meetup.com/topics/bsd/
 - https://www.freebsd.org/usergroups.html
