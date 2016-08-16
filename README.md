@@ -5,7 +5,9 @@
 * [OpenBSD-based products](#openbsd-based-products)
 * [Open vacancies](#vacancies)
 * [Events](#events)
+* [Vacancies](#vacancies)
 * [Hosting](#hosting)
+* [OpenBSD Free shells](#openbsd-free-shells)
 
 
 ## OpenBSD-based products
