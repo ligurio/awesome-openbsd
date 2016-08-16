@@ -73,6 +73,14 @@ networks based on OpenBSD.
 - http://www.openbsd.org/groups.html
 - http://www.netbsd.org/community/groups.html
 
+## OpenBSD Free shells
+
+- [Devio.us](http://devio.us/)
+- [Polarhome](http://www.polarhome.com/)
+- [Grex](http://grex.org/)
+- [Silenceisdefeat](http://silenceisdefeat.com/)
+- [Blinkshell](http://blinkenshell.org/)
+
 ## Links
 
 - [A collection of awesome BSD related stuff](https://github.com/DiscoverBSD/awesome-bsd)
