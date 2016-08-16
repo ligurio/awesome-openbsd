@@ -59,7 +59,9 @@ There are many products based on OpenBSD. Information about these products and t
 - http://www.openbsd.org/groups.html
 - http://www.netbsd.org/community/groups.html
 
+## Links
 
+- [A collection of awesome BSD related stuff](https://github.com/DiscoverBSD/awesome-bsd)
 
 ----
 Please [donate](http://www.openbsd.org/donations.html) to the OpenBSD project.
