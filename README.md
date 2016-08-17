@@ -39,6 +39,7 @@ networks based on OpenBSD.
 комплексных систем защиты информации (КСЗИ) классов 2 и 3. See
 [slides](https://www.atmnis.com/~apelsin/papers/).
 - [Calyptix Security](http://www.calyptix.com/products/models/ae800/) - firewall to protect and manage SMB networks. See [slides](http://www.nycbsdcon.org/2010/presentations/lteo-nycbsdcon2010.pdf).
+- [m:tier](http://www.mtier.org/about-us/) - OpenBSD thin client. See [slides](http://www.mtier.org/assets/Uploads/latinoware-2013.pdf).
 
 ##### Opensource products
 
