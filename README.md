@@ -30,7 +30,10 @@ under the ITSEC international standard.
 on OpenBSD.
 - [Fox-IT](https://www.fox-it.com/en/) delivers specialist security and
 intelligence solutions for government bodies and other major organizations
-throughout the world.
+throughout the world. Our core business is developing solutions for the protection
+of state secrets, the investigation of digital crime, audits, managed security services,
+consulting and training courses. We use OpenBSD as a trusted platform on
+which the [DataDiode](http://www.datadiode.eu/) is built.
 - [Esdenera Networks](https://www.esdenera.com/) Networking and security
 technology for modern cloud-based, decentralized, mobile and software-defined
 networks based on OpenBSD.
