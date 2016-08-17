@@ -57,7 +57,7 @@ networks based on OpenBSD.
 
 ## Hosting
 
-- KVM-based: ([RootBSD](https://www.rootbsd.net/), [ARP Networks](https://www.arpnetworks.com/), [RamNode](http://ramnode.com/), [Digital Ocean](https://www.digitalocean.com))
+- KVM-based: ([RootBSD](https://www.rootbsd.net/), [ARP Networks](https://www.arpnetworks.com/), [RamNode](http://ramnode.com/), [Digital Ocean](https://www.digitalocean.com), [Vultr](https://www.vultr.com/))
 - Xen-based: [Amazon EC2](https://gist.github.com/reyk/b372af303eb86bab3fee#file-openbsd-amd64-20160809-aws)
 
 ## Events
