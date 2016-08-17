@@ -46,6 +46,7 @@ networks based on OpenBSD.
 - [flashrd](http://www.nmedia.net/flashrd/)
 - [Security Router](http://securityrouter.org/wiki/Main_Page)
 - [MirOS](https://www.mirbsd.org/)
+- [Bitrig](https://www.bitrig.org/)
 
 ## Vacancies
 
