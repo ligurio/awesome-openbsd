@@ -73,7 +73,7 @@ networks based on OpenBSD.
 - [MeetBSD](http://meetbsd.org/)
 - [AsiaBSDCon](https://asiabsdcon.org)
 - vBSDCon
-- [OpenKyev](http://www.uaoug.org.ua/openkyiv/)
+- [OpenKyiv](http://www.uaoug.org.ua/openkyiv/)
 
 ##### BSD User groups
 
