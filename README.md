@@ -26,8 +26,6 @@ complement of POSIX real-time features added to it.
 based on OpenBSD: The two-tier GeNUGate system is the only firewall certified by
 the German Federal Office for Information Security (BSI) at E3 / high level
 under the ITSEC international standard.
-- [.vantronix GmbH](http://www.vantronix.com/) offers security appliances based
-on OpenBSD.
 - [Fox-IT](https://www.fox-it.com/en/) delivers specialist security and
 intelligence solutions for government bodies and other major organizations
 throughout the world. Our core business is developing solutions for the protection
