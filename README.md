@@ -63,6 +63,8 @@ networks based on OpenBSD.
 - Xen-based: [Amazon EC2](https://gist.github.com/reyk/b372af303eb86bab3fee#file-openbsd-amd64-20160809-aws)
 - [Hyper-V-based](https://gist.github.com/reyk/f6d2c7b9567cae7b4270): 
 
+Note: It's possible to run OpenBSD [even hosting providers don't support it](https://jcs.org/notaweblog/2014/09/12/remotely_installing_openbsd_on_a/).
+
 ## Events
 
 ##### Conferences
