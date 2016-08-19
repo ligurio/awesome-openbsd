@@ -61,6 +61,7 @@ networks based on OpenBSD.
 
 - KVM-based: ([RootBSD](https://www.rootbsd.net/), [ARP Networks](https://www.arpnetworks.com/), [RamNode](http://ramnode.com/), [Digital Ocean](https://www.digitalocean.com), [Vultr](https://www.vultr.com/docs/setup-openbsd), [Hetzner](https://wiki.hetzner.de/index.php/OpenBSD))
 - Xen-based: [Amazon EC2](https://gist.github.com/reyk/b372af303eb86bab3fee#file-openbsd-amd64-20160809-aws)
+- [Hyper-V-based](https://gist.github.com/reyk/f6d2c7b9567cae7b4270): 
 
 ## Events
 
