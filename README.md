@@ -48,6 +48,7 @@ networks based on OpenBSD.
 - [OpenBSD networking engineer](https://www.hermetek.com/employment)
 - [Senior developer](https://www.fishbowlvr.com/careers/senior-developer)
 - [LinkedIn](https://www.linkedin.com/jobs/openbsd-jobs)
+- [StackOverflow](https://stackoverflow.com/jobs?searchTerm=openbsd)
 
 ## Hosting
 
