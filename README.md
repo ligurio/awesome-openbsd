@@ -5,7 +5,9 @@
 * [OpenBSD-based products](#openbsd-based-products)
 * [Open vacancies](#vacancies)
 * [Events](#events)
+* [Vacancies](#vacancies)
 * [Hosting](#hosting)
+* [OpenBSD Free shells](#openbsd-free-shells)
 
 
 ## OpenBSD-based products
@@ -24,11 +26,12 @@ complement of POSIX real-time features added to it.
 based on OpenBSD: The two-tier GeNUGate system is the only firewall certified by
 the German Federal Office for Information Security (BSI) at E3 / high level
 under the ITSEC international standard.
-- [.vantronix GmbH](http://www.vantronix.com/) offers security appliances based
-on OpenBSD.
 - [Fox-IT](https://www.fox-it.com/en/) delivers specialist security and
 intelligence solutions for government bodies and other major organizations
-throughout the world.
+throughout the world. Our core business is developing solutions for the protection
+of state secrets, the investigation of digital crime, audits, managed security services,
+consulting and training courses. We use OpenBSD as a trusted platform on
+which the [DataDiode](http://www.datadiode.eu/) is built.
 - [Esdenera Networks](https://www.esdenera.com/) Networking and security
 technology for modern cloud-based, decentralized, mobile and software-defined
 networks based on OpenBSD.
@@ -36,25 +39,31 @@ networks based on OpenBSD.
 операционная система в Украине, сертифицированная к использованию при создании
 комплексных систем защиты информации (КСЗИ) классов 2 и 3. See
 [slides](https://www.atmnis.com/~apelsin/papers/).
+- [Calyptix Security](http://www.calyptix.com/products/models/ae800/) - firewall to protect and manage SMB networks. See [slides](http://www.nycbsdcon.org/2010/presentations/lteo-nycbsdcon2010.pdf).
+- [M:Tier](http://www.mtier.org/about-us/) - OpenBSD thin client (see [slides](http://www.mtier.org/assets/Uploads/latinoware-2013.pdf)), OpenBSD enterprise desktop for Fortune 500 companies (see [slides](http://www.openbsd.org/papers/opencon07-gnome.pdf) and [article](http://undeadly.org/cgi?action=article&sid=20110420080633)), [Long Term Support subscription](https://stable.mtier.org/subscriptions).
 
 ##### Opensource products
 
 - [flashrd](http://www.nmedia.net/flashrd/)
 - [Security Router](http://securityrouter.org/wiki/Main_Page)
 - [MirOS](https://www.mirbsd.org/)
+- [Bitrig](https://www.bitrig.org/)
+- [reflash](https://stable.rcesoftware.com/resflash/)
 
 ## Vacancies
 
 - [OpenBSD networking engineer](https://www.hermetek.com/employment)
 - [Senior developer](https://www.fishbowlvr.com/careers/senior-developer)
 - [LinkedIn](https://www.linkedin.com/jobs/openbsd-jobs)
-- [StackOverflow](https://stackoverflow.com/jobs?searchTerm=openbsd)
+- [StackOverflow](http://stackoverflow.com/jobs?searchTerm=openbsd)
 
 ## Hosting
 
-- [RootBSD](https://www.rootbsd.net/)
-- [Amazon EC2](https://gist.github.com/reyk/b372af303eb86bab3fee#file-openbsd-amd64-20160809-aws)
-- [ARP Networks](https://www.arpnetworks.com/)
+- KVM-based: ([RootBSD](https://www.rootbsd.net/), [ARP Networks](https://www.arpnetworks.com/), [RamNode](http://ramnode.com/), [Digital Ocean](https://www.digitalocean.com), [Vultr](https://www.vultr.com/docs/setup-openbsd), [Hetzner](https://wiki.hetzner.de/index.php/OpenBSD))
+- Xen-based: [Amazon EC2](https://gist.github.com/reyk/b372af303eb86bab3fee#file-openbsd-amd64-20160809-aws)
+- [Hyper-V-based](https://gist.github.com/reyk/f6d2c7b9567cae7b4270): 
+
+Note: It's possible to run OpenBSD [even hosting providers don't support it](https://jcs.org/notaweblog/2014/09/12/remotely_installing_openbsd_on_a/).
 
 ## Events
 
@@ -65,7 +74,7 @@ networks based on OpenBSD.
 - [MeetBSD](http://meetbsd.org/)
 - [AsiaBSDCon](https://asiabsdcon.org)
 - vBSDCon
-- [OpenKyev](http://www.uaoug.org.ua/openkyiv/)
+- [OpenKyiv](http://www.uaoug.org.ua/openkyiv/)
 
 ##### BSD User groups
 
