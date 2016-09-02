@@ -89,7 +89,6 @@ Note: It's possible to run OpenBSD [even hosting providers don't support it](htt
 - [Polarhome](http://www.polarhome.com/)
 - [Grex](http://grex.org/)
 - [Silenceisdefeat](http://silenceisdefeat.com/)
-- [Blinkshell](http://blinkenshell.org/)
 
 ## Links
 
