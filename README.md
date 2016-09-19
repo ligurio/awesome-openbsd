@@ -4,6 +4,7 @@
 
 * [OpenBSD-based products](#openbsd-based-products)
 * [Open vacancies](#vacancies)
+* [News](#news)
 * [Events](#events)
 * [Vacancies](#vacancies)
 * [Hosting](#hosting)
@@ -65,6 +66,12 @@ networks based on OpenBSD.
 - [Hyper-V-based](https://gist.github.com/reyk/f6d2c7b9567cae7b4270): 
 
 Note: It's possible to run OpenBSD [even hosting providers don't support it](https://jcs.org/notaweblog/2014/09/12/remotely_installing_openbsd_qemu/).
+
+## News
+
+- [OpenBSD source changes and snapshots in Twitter](https://twitter.com/estet/lists/openbsd-changes/members)
+- [OpenBSD weekly/daily changes list](http://www.squish.net/log/openbsd-source-changes/)
+- [OpenBSD Planet](https://bronevichok.ru/openbsd-planet/)
 
 ## Events
 
