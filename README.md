@@ -100,6 +100,7 @@ Note: It's possible to run OpenBSD [even hosting providers don't support it](htt
 - [Silenceisdefeat](http://silenceisdefeat.com/)
 - [Free Shell Accounts](http://shells.red-pill.eu/)
 - [Underlegend Networks](http://yenn.ulegend.net/)
+- [obsd.pl](http://obsd.pl/)
 
 ## Links
 
