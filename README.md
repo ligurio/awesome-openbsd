@@ -98,6 +98,8 @@ Note: It's possible to run OpenBSD [even hosting providers don't support it](htt
 - [Polarhome](http://www.polarhome.com/)
 - [Grex](http://grex.org/)
 - [Silenceisdefeat](http://silenceisdefeat.com/)
+- [Free Shell Accounts](http://shells.red-pill.eu/)
+- [Underlegend Networks](http://yenn.ulegend.net/)
 
 ## Links
 
