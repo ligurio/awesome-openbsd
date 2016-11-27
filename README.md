@@ -104,6 +104,7 @@ Note: It's possible to run OpenBSD [even hosting providers don't support it](htt
 
 ## Links
 
+- [OpenBSD mirrors status](http://spacehopper.org/mirmon/)
 - [A collection of awesome BSD related stuff](https://github.com/DiscoverBSD/awesome-bsd)
 
 ----
