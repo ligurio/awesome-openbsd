@@ -23,8 +23,8 @@ Solaris](https://docs.oracle.com/cd/E53394_01/html/E54829/pfovw-1.html)
 - OpenSSH is a part of many commercial products
 - [RTMX](http://www.rtmx.com/) sells a version of OpenBSD which has a full
 complement of POSIX real-time features added to it.
-- [GeNUA](https://www.genua.de/) offers sophisticated IT security solutions
-based on OpenBSD: The two-tier GeNUGate system is the only firewall certified by
+- [genua](https://www.genua.de/) offers sophisticated IT security solutions
+based on OpenBSD: The two-tier genugate system is the only firewall certified by
 the German Federal Office for Information Security (BSI) at E3 / high level
 under the ITSEC international standard.
 - [Fox-IT](https://www.fox-it.com/en/) delivers specialist security and
