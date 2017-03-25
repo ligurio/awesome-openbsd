@@ -61,7 +61,7 @@ networks based on OpenBSD.
 
 ## Hosting
 
-- KVM-based: ([RootBSD](https://www.rootbsd.net/), [ARP Networks](https://www.arpnetworks.com/), [RamNode](http://ramnode.com/), [Digital Ocean](https://www.digitalocean.com), [Vultr](https://www.vultr.com/docs/setup-openbsd), [Hetzner](https://wiki.hetzner.de/index.php/OpenBSD))
+- KVM-based: ([RootBSD](https://www.rootbsd.net/), [ARP Networks](https://www.arpnetworks.com/), [RamNode](http://ramnode.com/), [Digital Ocean](https://www.digitalocean.com), [Vultr](https://www.vultr.com/docs/setup-openbsd), [Hetzner](https://wiki.hetzner.de/index.php/OpenBSD)), [Linode](http://notes.eatonphil.com/2017/3/deploying-freebsd-on-linode-unattended-in-minutes.html), [Exoscale](http://exoscale.com/)
 - Xen-based: [Amazon EC2](https://gist.github.com/reyk/b372af303eb86bab3fee#file-openbsd-amd64-20160809-aws)
 - [Hyper-V-based](https://gist.github.com/reyk/f6d2c7b9567cae7b4270): 
 
@@ -71,7 +71,7 @@ Note: It's possible to run OpenBSD [even hosting providers don't support it](htt
 
 - [OpenBSD source changes and snapshots in Twitter](https://twitter.com/estet/lists/openbsd-changes/members)
 - [OpenBSD weekly/daily changes list](http://www.squish.net/log/openbsd-source-changes/)
-- [OpenBSD Planet](https://bronevichok.ru/openbsd-planet/)
+- [OpenBSD Planet](http://openbsdnow.org/)
 
 ## Events
 
