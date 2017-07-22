@@ -58,6 +58,7 @@ networks based on OpenBSD.
 - [Senior developer](https://www.fishbowlvr.com/careers/senior-developer)
 - [LinkedIn](https://www.linkedin.com/jobs/openbsd-jobs)
 - [StackOverflow](http://stackoverflow.com/jobs?searchTerm=openbsd)
+- http://lists.nycbug.org/mailman/listinfo/jobs
 
 ## Hosting
 
