@@ -85,6 +85,7 @@ Note: It's possible to run OpenBSD [even hosting providers don't support it](htt
 - vBSDCon
 - [OpenKyiv](http://www.uaoug.org.ua/openkyiv/)
 - [KyivBSD](http://ru.kyivbsd.org.ua/)
+- [BSDTW](https://bsdtw.org/)
 
 ##### BSD User groups
 
