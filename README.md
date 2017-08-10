@@ -95,6 +95,19 @@ Note: It's possible to run OpenBSD [even hosting providers don't support it](htt
 - http://www.openbsd.org/groups.html
 - http://www.netbsd.org/community/groups.html
 
+## Community
+
+* [announce@openbsd.org](https://www.openbsd.org/mail.html) - 7,228
+* [misc@openbsd.org](https://www.openbsd.org/mail.html) - 4,829
+* Twitter [@openbsdjournal](https://twitter.com/openbsdjournal) - 4,568
+* [/r/openbsd](https://www.reddit.com/r/openbsd/) - 3,525
+* [Quora](https://www.quora.com/topic/OpenBSD) - 2,300
+* [Google Plus](https://plus.google.com/communities/113634135604793474364) - 1,416
+* [#OpenBSD](http://webchat.freenode.net?channels=%23openbsd) on irc.freenode.net - 683
+* [Planet OpenBSD](http://openbsdnow.org/) - 75
+* [Gitter](https://gitter.im/BSDs/OpenBSD) - 3
+* https://unitedbsd.com/
+
 ## OpenBSD Free shells
 
 - [Devio.us](http://devio.us/)
