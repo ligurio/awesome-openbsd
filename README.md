@@ -121,6 +121,51 @@ Note: It's possible to run OpenBSD [even hosting providers don't support it](htt
 - [Underlegend Networks](http://yenn.ulegend.net/)
 - [obsd.pl](http://obsd.pl/)
 
+## Interviews
+
+### Interviews
+
+* Antoine Jacoutot [beastie.pl](http://beastie.pl/deweloperzy-openbsd-antoine-jacoutot/)
+* Dmitrij D. Czarkoff [beastie.pl](http://beastie.pl/deweloperzy-openbsd-dmitrij-d-czarkoff/)
+* Theo de Raadt [Yandex](https://events.yandex.ru/lib/talks/1487/), [Linux.com](https://www.linux.com/news/interview-theo-de-raadt-openbsd), [KernelTrap](https://web.archive.org/web/20060421165150/http://kerneltrap.org/node/6)
+* Alexander Yurchenko [eax.me](http://eax.me/eaxcast-s02e01/)
+* David Gwynne [bsdtalk](http://bsdtalk.blogspot.ru/2006/05/bsdtalk046-interview-with-openbsd.html)
+* Stefan Sperling [distrowatch](http://distrowatch.com/weekly.php?issue=20100517#feature), [beastie.pl](http://beastie.pl/deweloperzy-openbsd-stefan-sperling/)
+* Bob Beck [bsdtalk](http://bsdtalk.blogspot.ru/2006/09/bsdtalk068-interview-with-openbsd.html)
+* Ted Unangst [beastie.pl](http://beastie.pl/deweloperzy-openbsd-ted-unangst/), [Lobsters](https://lobste.rs/s/ppopah/lobsters_interview_with_ted_unangst)
+* Marco Peereboom [bsdtalk](https://archive.org/details/bsdtalk027)
+* Daniel Hartmeier [onlamp](http://www.onlamp.com/pub/a/bsd/2004/04/15/pf_developers.html)
+* Joris Vink [bsdtalk](https://archive.org/details/bsdtalk050)
+* Robert Nagy [The Document Foundation](https://blog.documentfoundation.org/blog/2011/01/21/developer-interview-robert-nagy/)
+* Joshua Stein [The Setup](https://usesthis.com/interviews/joshua.stein/), [beastie.pl](http://beastie.pl/deweloperzy-openbsd-joshua-stein/)
+* Bryan Steele [beastie.pl](http://beastie.pl/deweloperzy-openbsd-bryan-steele/)
+* Ingo Schwarze [beastie.pl](http://beastie.pl/deweloperzy-openbsd-ingo-schwarze/)
+* Vadim Zhukov [beastie.pl](http://beastie.pl/deweloperzy-openbsd-vadim-zhukov/)
+* Marc Espie [beastie.pl](http://beastie.pl/deweloperzy-openbsd-marc-espie/), [linuxfr.org](http://linuxfr.org/news/entretien-avec-des-d%C3%A9veloppeurs-francophones-dopenbsd-partie-1)
+* Dmitrij D. Czarkoff [beastie.pl](http://beastie.pl/deweloperzy-openbsd-dmitrij-d-czarkoff/)
+* Gilles Chehade [beastie.pl](http://beastie.pl/deweloperzy-openbsd-gilles-chehade/), [bronevichok.ru](https://bronevichok.ru/blog/2014/07/29/testing-of-opensmtpd.html)
+* Landry Breuil [beastie.pl](http://beastie.pl/deweloperzy-openbsd-landry-breuil/)
+* Brandon Mercer [beastie.pl](http://beastie.pl/deweloperzy-openbsd-brandon-mercer/)
+* Henning Brauer [beastie.pl](http://beastie.pl/deweloperzy-openbsd-henning-brauer/), [IOException.de](http://tmp.marmaro.de/www.ioexception.de/2013/10/16/interview-henning-brauer/index.html)
+* Mike Larkin [bsdtalk](http://bsdtalk.blogspot.ru/2010/08/bsdtalk195-mike-larkin.html)
+* Anil Madhavapeddy [FOSDEM](https://archive.fosdem.org/2012/interview/anil-madhavapeddy.html)
+* Pierre-Yves Ritschard [bsdtalk](http://bsdtalk.blogspot.ru/2007/02/bsdtalk097-openbsd-developer-pierre.html)
+* Claudio Jeker [bsdtalk](http://bsdtalk.blogspot.ru/2007/01/bsdtalk095-openbsd-developer-claudio.html)
+* Jason Wright [bsdtalk](http://bsdtalk.blogspot.ru/2006/11/bsdtalk082-openbsd-developer-jason.html)
+* Marc Balmer [bsdtalk](http://bsdtalk.blogspot.ru/2006/10/bsdtalk076-openbsd-developer-marc.html)
+* Matthieu Herrb [bsdtalk](http://bsdtalk.blogspot.ru/2007/04/bsdtalk106-interview-with-matthieu.html), [bronevichok.ru](https://bronevichok.ru/blog/2014/08/06/testing-of-xorg.html)
+
+Also: https://www.openssh.com/press.html
+
+### Desktop
+
+- reyk@ [WindowsMaker](https://gist.github.com/reyk/80dca43c8bcfa76d2a7ff147ea64d442) and [Lenovo X1 Carbon](https://gist.github.com/reyk/80dca43c8bcfa76d2a7ff147ea64d442)
+- jcs@ [ratpoison](https://github.com/jcs/ratpoison) ([shot](https://www.reddit.com/r/unixporn/comments/454i3p/ratpoison_witty_title_here/), [config](https://github.com/jcs/dotfiles), [desc](https://jcs.org/notaweblog/2009/06/30/my_mac_os_x_setup/)) and [HP Pixel Chromebook](https://jcs.org/talks/2016/09/07/chibug_openbsd_on_the_chromebook_pixel/slides)
+- jasper@ cwm? https://twitter.com/jasper_la/status/773080105858007040
+- henning@ fvwm https://twitter.com/HenningBrauer/status/771285626612248577
+- tedu@ [Lenovo X1 Carbon](http://www.tedunangst.com/flak/post/Thinkpad-Carbon-X1-2015)?
+
+
 ## Links
 
 - [OpenBSD mirrors status](http://spacehopper.org/mirmon/)
