@@ -63,7 +63,7 @@ networks based on OpenBSD.
 
 ## Hosting
 
-- KVM-based: ([RootBSD](https://www.rootbsd.net/), [ARP Networks](https://www.arpnetworks.com/), [RamNode](http://ramnode.com/), [Digital Ocean](https://www.digitalocean.com), [Vultr](https://www.vultr.com/docs/setup-openbsd), [Hetzner](https://wiki.hetzner.de/index.php/OpenBSD)), [Linode](http://notes.eatonphil.com/2017/3/deploying-freebsd-on-linode-unattended-in-minutes.html), [Exoscale](http://exoscale.com/)
+- KVM-based: ([RootBSD](https://www.rootbsd.net/), [ARP Networks](https://www.arpnetworks.com/), [RamNode](http://ramnode.com/), [Digital Ocean](https://www.digitalocean.com), [Vultr](https://www.vultr.com/docs/setup-openbsd), [Hetzner](https://wiki.hetzner.de/index.php/OpenBSD), [BuyVM](https://buyvm.net/operating-systems/bsd-family/)), [Linode](http://notes.eatonphil.com/2017/3/deploying-freebsd-on-linode-unattended-in-minutes.html), [Exoscale](http://exoscale.com/)
 - Google Compute Engine [instruction](https://marc.info/?l=openbsd-misc&m=138757967321855&w=2)
 - Xen-based: [Amazon EC2](https://gist.github.com/reyk/b372af303eb86bab3fee#file-openbsd-amd64-20160809-aws)
 - [Hyper-V-based](https://gist.github.com/reyk/f6d2c7b9567cae7b4270): 
