@@ -15,7 +15,7 @@
 
 There are many products based on OpenBSD. Information about these products and the version of OpenBSD they are based on is often difficult to come by, since this fact is not widely publicised.
 
-##### Commercial products
+##### OpenBSD-based commercial products
 
 - OpenBSD packet Filter is a part of [Apple Inc.'s OS X and
 iOS](http://callfortesting.org/macpf/), [Oracle
@@ -44,7 +44,7 @@ networks based on OpenBSD.
 - [M:Tier](http://www.mtier.org/about-us/) - OpenBSD thin client (see [slides](http://www.mtier.org/assets/Uploads/latinoware-2013.pdf)), OpenBSD enterprise desktop for Fortune 500 companies (see [slides](http://www.openbsd.org/papers/opencon07-gnome.pdf) and [article](http://undeadly.org/cgi?action=article&sid=20110420080633)), [Long Term Support subscription](https://stable.mtier.org/subscriptions).
 - [Mercedes Benz](http://www4.mercedes-benz.com/manual-cars/ba/foss/content/en/assets/FOSS_licences.pdf)
 
-##### Opensource products
+##### OpenBSD-based opensource products
 
 - [flashrd](http://www.nmedia.net/flashrd/)
 - [Security Router](http://securityrouter.org/wiki/Main_Page)
@@ -52,11 +52,9 @@ networks based on OpenBSD.
 - [Bitrig](https://www.bitrig.org/)
 - [reflash](https://stable.rcesoftware.com/resflash/)
 
-## Vacancies
+## Job
 
 - [BSDjobs](https://www.bsdjobs.com/)
-- [OpenBSD networking engineer](https://www.hermetek.com/employment)
-- [Senior developer](https://www.fishbowlvr.com/careers/senior-developer)
 - [LinkedIn](https://www.linkedin.com/jobs/openbsd-jobs)
 - [StackOverflow](http://stackoverflow.com/jobs?searchTerm=openbsd)
 - [jobs@lists.nycbug.org](http://lists.nycbug.org/mailman/listinfo/jobs)
@@ -74,7 +72,7 @@ Note: It's possible to run OpenBSD [even hosting providers don't support it](htt
 
 - [OpenBSD source changes and snapshots in Twitter](https://twitter.com/estet/lists/openbsd-changes/members)
 - [OpenBSD weekly/daily changes list](http://www.squish.net/log/openbsd-source-changes/)
-- [OpenBSD Planet](http://openbsdnow.org/)
+- [OpenBSD Planet](https://openbsdnow.org/)
 
 ## Events
 
@@ -122,32 +120,22 @@ Note: It's possible to run OpenBSD [even hosting providers don't support it](htt
 - [Underlegend Networks](http://yenn.ulegend.net/)
 - [obsd.pl](http://obsd.pl/)
 
-## Interviews
-
 ### Interviews
 
-* Antoine Jacoutot [beastie.pl](http://beastie.pl/deweloperzy-openbsd-antoine-jacoutot/)
-* Dmitrij D. Czarkoff [beastie.pl](http://beastie.pl/deweloperzy-openbsd-dmitrij-d-czarkoff/)
 * Theo de Raadt [Yandex](https://events.yandex.ru/lib/talks/1487/), [Linux.com](https://www.linux.com/news/interview-theo-de-raadt-openbsd), [KernelTrap](https://web.archive.org/web/20060421165150/http://kerneltrap.org/node/6)
 * Alexander Yurchenko [eax.me](http://eax.me/eaxcast-s02e01/)
 * David Gwynne [bsdtalk](http://bsdtalk.blogspot.ru/2006/05/bsdtalk046-interview-with-openbsd.html)
 * Stefan Sperling [distrowatch](http://distrowatch.com/weekly.php?issue=20100517#feature), [beastie.pl](http://beastie.pl/deweloperzy-openbsd-stefan-sperling/)
 * Bob Beck [bsdtalk](http://bsdtalk.blogspot.ru/2006/09/bsdtalk068-interview-with-openbsd.html)
-* Ted Unangst [beastie.pl](http://beastie.pl/deweloperzy-openbsd-ted-unangst/), [Lobsters](https://lobste.rs/s/ppopah/lobsters_interview_with_ted_unangst)
+* [Lobsters](https://lobste.rs/s/ppopah/lobsters_interview_with_ted_unangst)
 * Marco Peereboom [bsdtalk](https://archive.org/details/bsdtalk027)
 * Daniel Hartmeier [onlamp](http://www.onlamp.com/pub/a/bsd/2004/04/15/pf_developers.html)
 * Joris Vink [bsdtalk](https://archive.org/details/bsdtalk050)
 * Robert Nagy [The Document Foundation](https://blog.documentfoundation.org/blog/2011/01/21/developer-interview-robert-nagy/)
 * Joshua Stein [The Setup](https://usesthis.com/interviews/joshua.stein/), [beastie.pl](http://beastie.pl/deweloperzy-openbsd-joshua-stein/)
-* Bryan Steele [beastie.pl](http://beastie.pl/deweloperzy-openbsd-bryan-steele/)
-* Ingo Schwarze [beastie.pl](http://beastie.pl/deweloperzy-openbsd-ingo-schwarze/)
-* Vadim Zhukov [beastie.pl](http://beastie.pl/deweloperzy-openbsd-vadim-zhukov/)
-* Marc Espie [beastie.pl](http://beastie.pl/deweloperzy-openbsd-marc-espie/), [linuxfr.org](http://linuxfr.org/news/entretien-avec-des-d%C3%A9veloppeurs-francophones-dopenbsd-partie-1)
-* Dmitrij D. Czarkoff [beastie.pl](http://beastie.pl/deweloperzy-openbsd-dmitrij-d-czarkoff/)
-* Gilles Chehade [beastie.pl](http://beastie.pl/deweloperzy-openbsd-gilles-chehade/), [bronevichok.ru](https://bronevichok.ru/blog/2014/07/29/testing-of-opensmtpd.html)
-* Landry Breuil [beastie.pl](http://beastie.pl/deweloperzy-openbsd-landry-breuil/)
-* Brandon Mercer [beastie.pl](http://beastie.pl/deweloperzy-openbsd-brandon-mercer/)
-* Henning Brauer [beastie.pl](http://beastie.pl/deweloperzy-openbsd-henning-brauer/), [IOException.de](http://tmp.marmaro.de/www.ioexception.de/2013/10/16/interview-henning-brauer/index.html)
+* Marc Espie [linuxfr.org](http://linuxfr.org/news/entretien-avec-des-d%C3%A9veloppeurs-francophones-dopenbsd-partie-1)
+* Gilles Chehade [bronevichok.ru](https://bronevichok.ru/blog/2014/07/29/testing-of-opensmtpd.html)
+* Henning Brauer [IOException.de](http://tmp.marmaro.de/www.ioexception.de/2013/10/16/interview-henning-brauer/index.html)
 * Mike Larkin [bsdtalk](http://bsdtalk.blogspot.ru/2010/08/bsdtalk195-mike-larkin.html)
 * Anil Madhavapeddy [FOSDEM](https://archive.fosdem.org/2012/interview/anil-madhavapeddy.html)
 * Pierre-Yves Ritschard [bsdtalk](http://bsdtalk.blogspot.ru/2007/02/bsdtalk097-openbsd-developer-pierre.html)
@@ -155,8 +143,6 @@ Note: It's possible to run OpenBSD [even hosting providers don't support it](htt
 * Jason Wright [bsdtalk](http://bsdtalk.blogspot.ru/2006/11/bsdtalk082-openbsd-developer-jason.html)
 * Marc Balmer [bsdtalk](http://bsdtalk.blogspot.ru/2006/10/bsdtalk076-openbsd-developer-marc.html)
 * Matthieu Herrb [bsdtalk](http://bsdtalk.blogspot.ru/2007/04/bsdtalk106-interview-with-matthieu.html), [bronevichok.ru](https://bronevichok.ru/blog/2014/08/06/testing-of-xorg.html)
-
-Also: https://www.openssh.com/press.html
 
 ### Desktop
 
