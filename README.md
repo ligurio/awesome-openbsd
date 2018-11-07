@@ -198,7 +198,6 @@ Note: It's possible to run OpenBSD [even hosting providers don't support it](htt
   * [openbsd-ports](http://marc.info/?l=openbsd-ports)
   * [openbsd-misc](http://marc.info/?l=openbsd-misc)
 * [OpenBSD weekly/daily changes list](http://www.squish.net/log/openbsd-source-changes/)
-* [Mastering the web](https://www.romanzolotarev.com/n/) - Zolotarev's newsletter with lots of goodies
 
 ### IRC
 
