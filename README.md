@@ -99,7 +99,7 @@ There are many products based on OpenBSD. Information about these products and t
 
 - [flashrd](http://www.nmedia.net/flashrd/)
 - [Security Router](http://securityrouter.org/wiki/Main_Page)
-- [MirOS](https://www.mirbsd.org/)(Not in active development)
+- [MirOS](https://www.mirbsd.org/) (Not in active development)
 - [Bitrig](https://www.bitrig.org/)
 - [reflash](https://stable.rcesoftware.com/resflash/)
 
@@ -220,7 +220,7 @@ Note: It's possible to run OpenBSD [even hosting providers don't support it](htt
 * [@romanzolotarev](https://bsd.network/@romanzolotarev)
 * [@akpoff](https://bsd.network/@akpoff)
 * [@brynet](https://bsd.network/@brynet)
-* [@h3artbl33d)](https://bsd.network/@h3artbl33d)
+* [@h3artbl33d](https://bsd.network/@h3artbl33d)
 * [@OpenBSDAms](https://bsd.network/@OpenBSDAms)
 * [@openbsdnow](https://bsd.network/@openbsdnow)
 * [@polishdub](https://bsd.network/@polishdub)
