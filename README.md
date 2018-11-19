@@ -30,7 +30,8 @@
 * [Selected articles](#selected-articles)
 * [Desktop](#desktop)
 * [Third party repositories](#third-party-repositories)
-* [Ports to Linux](#ports-to-linux)
+* [OpenBSD Provisioning(#openbsd-provisioning)
+* [Portable OpenBSD Components](#portable-openbsd-components)
 
 ## Official OpenBSD
 
@@ -74,7 +75,6 @@ changes
 * [Analysis of OpenBSD community](https://github.com/ligurio/openbsd-metrics) with [GrimoireELK](https://github.com/grimoirelab/GrimoireELK)
 * [OpenBSD Wikipedia page](https://en.wikipedia.org/wiki/OpenBSD)
 * [OpenBSD QA wiki](https://github.com/ligurio/openbsd-tests/wiki)
-* [vedetta](https://github.com/vedetta-com/vedetta) - OpenBSD Router Boilerplate
 * [Multicast Proxy for OpenBSD](https://github.com/Esdenera/mcast-proxy) from [Esdenera](https://www.esdenera.com/)
 * [A collection of awesome BSD related stuff](https://github.com/DiscoverBSD/awesome-bsd)
 
@@ -103,11 +103,11 @@ There are many products based on OpenBSD. Information about these products and t
 - [Bitrig](https://www.bitrig.org/)
 - [reflash](https://stable.rcesoftware.com/resflash/)
 
-## Hosting
+## OpenBSD-friendly Hosting
 
-### donors to OpenBSD Foundation
+### OpenBSD VMM-based
 
-* [OpenBSD Amsterdam](https://openbsd.amsterdam/) - very cheap OpenBSD VMs
+* [OpenBSD Amsterdam](https://openbsd.amsterdam/) - OpenBSD VMs
 * [OpenBSD.space](http://openbsd.space/) - Torified OpenBSD VMs
 
 ### KVM-based
@@ -120,15 +120,15 @@ There are many products based on OpenBSD. Information about these products and t
 * [Hetzner](https://wiki.hetzner.de/index.php/OpenBSD)
 * [BuyVM](https://buyvm.net/operating-systems/bsd-family/)
 * [Linode](http://notes.eatonphil.com/2017/3/deploying-freebsd-on-linode-unattended-in-minutes.html)
-* [Exoscale](http://exoscale.com/)
+* [Exoscale](http://exoscale.com/) - based on CloudStack
+
+NOTE: It's possible to run OpenBSD [even hosting providers don't support it](https://jcs.org/notaweblog/2014/09/12/remotely_installing_openbsd_qemu/).
 
 ### Other options
 
 * Google Compute Engine [instruction](https://marc.info/?l=openbsd-misc&m=138757967321855&w=2)
 * Xen-based: [Amazon EC2](https://gist.github.com/reyk/b372af303eb86bab3fee#file-openbsd-amd64-20160809-aws)
 * [Hyper-V-based](https://gist.github.com/reyk/f6d2c7b9567cae7b4270)
-
-Note: It's possible to run OpenBSD [even hosting providers don't support it](https://jcs.org/notaweblog/2014/09/12/remotely_installing_openbsd_qemu/).
 
 ### Free shells
 
@@ -149,15 +149,15 @@ Note: It's possible to run OpenBSD [even hosting providers don't support it](htt
 
 ## Community
 
-* [announce@openbsd.org](https://www.openbsd.org/mail.html) - 7,228
-* [misc@openbsd.org](https://www.openbsd.org/mail.html) - 4,829
-* Twitter [@openbsdjournal](https://twitter.com/openbsdjournal) - 4,568
-* [/r/openbsd](https://www.reddit.com/r/openbsd/) - 3,525
-* [Quora](https://www.quora.com/topic/OpenBSD) - 2,300
-* [Google Plus](https://plus.google.com/communities/113634135604793474364) - 1,416
-* [#OpenBSD](http://webchat.freenode.net?channels=%23openbsd) on irc.freenode.net - 683
-* [Planet OpenBSD](http://openbsdnow.org/) - 75
-* [Gitter](https://gitter.im/BSDs/OpenBSD) - 3
+* [announce@openbsd.org](https://www.openbsd.org/mail.html)
+* [misc@openbsd.org](https://www.openbsd.org/mail.html)
+* Twitter [@openbsdjournal](https://twitter.com/openbsdjournal)
+* [/r/openbsd](https://www.reddit.com/r/openbsd/)
+* [Quora](https://www.quora.com/topic/OpenBSD)
+* [Google Plus](https://plus.google.com/communities/113634135604793474364)
+* [#OpenBSD](http://webchat.freenode.net?channels=%23openbsd) on irc.freenode.net
+* [Planet OpenBSD](http://openbsdnow.org/)
+* [Gitter](https://gitter.im/BSDs/OpenBSD)
 * https://unitedbsd.com/
 
 ### News
@@ -225,7 +225,7 @@ Note: It's possible to run OpenBSD [even hosting providers don't support it](htt
 * [OpenBSD Brazil](https://t.me/OpenBSDbr)
 * [OpenBSD Spain](https://t.me/OpenBSD_es)
 
-### Interviews
+### Interviews with OpenBSD developers
 
 * Theo de Raadt [Yandex](https://events.yandex.ru/lib/talks/1487/), [Linux.com](https://www.linux.com/news/interview-theo-de-raadt-openbsd), [KernelTrap](https://web.archive.org/web/20060421165150/http://kerneltrap.org/node/6)
 * Alexander Yurchenko [eax.me](http://eax.me/eaxcast-s02e01/)
@@ -300,32 +300,40 @@ Note: It's possible to run OpenBSD [even hosting providers don't support it](htt
 * [Scripts to run an OpenBSD mirror](https://github.com/bluhm/mirror-openbsd)
 * [OpenBSD WiP](https://github.com/topics/openbsd-wip)
 * [OpenBSD bitbucket mirror](https://bitbucket.org/braindamaged/openbsd-src) - using mercurial
-* [Reyk Floeter repos](https://github.com/reyk) - httpd, openiked, relayd, snmpd
 * [snap, an OpenBSD upgrade tool](https://github.com/qbit/snap)
 * [upobsd](https://bitbucket.org/semarie/upobsd/) - download, verify and patch bsd.rd image
 * [awesome pledge(2)](https://github.com/PeterTonoli/awesome-pledge)
-* [OpenSMTPD official mirror and extra repos](https://github.com/opensmtpd)
 * [AWS-OpenBSD](https://github.com/ajacoutot/aws-openbsd) - AWS playground for OpenBSD kids
 * [OpenBSD Flashboot](https://github.com/kirei/flashboot) - suitable for booting of flash devices
 * [Execute Rails applications on OpenBSD](https://github.com/wesley974/railsonopenbsd)
 * [dotfiles, sweet dotfiles](https://github.com/unbalancedparentheses/dotfiles)
-* [desktop-openbsd-starter-kit](https://github.com/matthewgraybosch/desktop-openbsd-starter-kit) - 
-Dotfiles and config files for use with OpenBSD on a desktop or laptop
 * [fvwm-config-on-openbsd](https://github.com/bfmartin/fvwm-config-on-openbsd) - Configuration files for the FVWM window manager on a modern OpenBSD
 * [dyndnsd](https://github.com/mario-campos/dyndnsd) - Dynamic DNS Daemon for OpenBSD
 * [OpenMDNS](https://github.com/haesbaert/mdnsd) - [Mdns daemon for OpenBSD](http://www.haesbaert.org/openmdns/)
+
+## OpenBSD Provisioning
+
+* https://github.com/ligurio/openbsd-cookbooks
+* http://cvs.x61.com.ar/cgi-bin/cvsweb/ansible-role-mailserver/ 
+* https://github.com/martinbaillie/homebrew-openbsd-pcengines-router/
+* https://github.com/northox/openbsd-apu2
+* https://github.com/elad/openbsd-apu2
+* https://github.com/cullum/dank-selfhosted
+* https://github.com/codeghar/openbsd-on-erl
+* [desktop-openbsd-starter-kit](https://github.com/matthewgraybosch/desktop-openbsd-starter-kit) - Dotfiles and config files for use with OpenBSD on a desktop or laptop
 * [vedetta](https://github.com/vedetta-com/vedetta) - OpenBSD Router Boilerplate
 * [caesonia](https://github.com/vedetta-com/caesonia) - OpenBSD Email Service (there's also a [Playbook for Caesonia](https://github.com/vedetta-com/ansible-role-caesonia))
 * [Automated solution for hosting email, web, DNS, XMPP, and ZNC on OpenBSD](https://github.com/cullum/dank-selfhosted)
 
-## Ports to Linux
+## Portable OpenBSD Components
 
-* [LibreSSL Portable](https://github.com/libressl-portable/portable)
-* [cwm(1) portable](https://github.com/chneukirchen/cwm) - portable version of OpenBSD's cwm(1) window manager
-* [A portable version of the OpenBSD `doas` command](https://github.com/Duncaen/OpenDoas)
-* [A Portable version OpenBSD's ksh](https://github.com/ibara/oksh)
-* [A Linux port of OpenBSD's ksh](https://github.com/dimkr/loksh)
-* [A portable version of OpenBSD's privsep/sandboxed file(1)](https://github.com/brynet/file)
+* [OpenSMTPD](https://github.com/opensmtpd)
+* [OpenIKED](https://github.com/reyk/openiked)
+* [LibreSSL](https://github.com/libressl-portable/portable)
+* [cwm(1)](https://github.com/chneukirchen/cwm) - portable version of OpenBSD's cwm(1) window manager
+* [doas](https://github.com/Duncaen/OpenDoas)
+* ksh(1): [ibara/oksh](https://github.com/ibara/oksh), [dimkr/ksh](https://github.com/dimkr/loksh)
+* [file(1)](https://github.com/brynet/file)
 
 ----
 Please [donate](http://www.openbsd.org/donations.html) to the OpenBSD project.
