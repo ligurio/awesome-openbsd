@@ -30,7 +30,7 @@
 * [Selected articles](#selected-articles)
 * [Desktop](#desktop)
 * [Third party repositories](#third-party-repositories)
-* [OpenBSD Provisioning(#openbsd-provisioning)
+* [OpenBSD Provisioning](#openbsd-provisioning)
 * [Portable OpenBSD Components](#portable-openbsd-components)
 
 ## Official OpenBSD
