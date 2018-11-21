@@ -146,7 +146,6 @@ NOTE: It's possible to run OpenBSD [even hosting providers don't support it](htt
 ## Jobs
 
 - [BSDjobs](https://www.bsdjobs.com/)
-- [LinkedIn](https://www.linkedin.com/jobs/openbsd-jobs)
 - [StackOverflow](http://stackoverflow.com/jobs?searchTerm=openbsd)
 - [jobs@lists.nycbug.org](http://lists.nycbug.org/mailman/listinfo/jobs)
 
@@ -158,7 +157,6 @@ NOTE: It's possible to run OpenBSD [even hosting providers don't support it](htt
 * [Quora](https://www.quora.com/topic/OpenBSD)
 * [#OpenBSD](http://webchat.freenode.net?channels=%23openbsd) on irc.freenode.net
 * [Gitter](https://gitter.im/BSDs/OpenBSD)
-* https://unitedbsd.com/
 
 ### News
 
