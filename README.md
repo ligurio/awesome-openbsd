@@ -266,6 +266,7 @@ NOTE: It's possible to run OpenBSD [even hosting providers don't support it](htt
 * [OpenBSD on a Laptop](https://www.c0ffee.net/blog/openbsd-on-a-laptop/)
 * [Installing OpenBSD 6.1 on your laptop is really hard (not)](http://sohcahtoa.org.uk/openbsd.html)
 * [OpenBSD 6.3: why and how](https://sivers.org/openbsd)
+* [Configuring SNMP v3 on OpenBSD 6.4](https://thefreecountry.wordpress.com/2018/11/27/configuring-snmp-v3-on-openbsd-6-4/)
 * [An OpenBSD Workstation](http://eradman.com/posts/openbsd-workstation.html)
 * [Enlightenment on OpenBSD](http://enform.haxlab.org/)
 * [An awesome OpenBSD 6.1 desktop](https://github.com/WyldePointer/openbsd-desktop) (XFCE)
