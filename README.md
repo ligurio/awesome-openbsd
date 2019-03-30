@@ -114,7 +114,6 @@ this fact is not widely publicised.
 ### OpenBSD VMM-based
 
 * [OpenBSD Amsterdam](https://openbsd.amsterdam/) - OpenBSD VMs
-* [OpenBSD.space](http://openbsd.space/) - Torified OpenBSD VMs
 
 ### KVM-based
 
@@ -162,11 +161,10 @@ NOTE: It's possible to run OpenBSD [even hosting providers don't support it](htt
 ### News
 
 * [Undeadly](http://undeadly.org/) - OpenBSD Journal
-* [Planet OpenBSD](http://openbsdnow.org/) - [src repo](https://github.com/ligurio/openbsdnow.org)
+* [Planet OpenBSD](https://bronevichok.ru/openbsdnow/) - [src repo](https://github.com/ligurio/openbsdnow.org)
 * [Lobsters OpenBSD tag](https://lobste.rs/t/openbsd)
 * [reddit community](http://reddit.com/r/openbsd/)
 * [Google Plus community](https://plus.google.com/communities/113634135604793474364)
-* [UnitedBSD](https://unitedbsd.com/c/openbsd)
 
 ### Conferences
 
@@ -228,14 +226,14 @@ NOTE: It's possible to run OpenBSD [even hosting providers don't support it](htt
 * Theo de Raadt [Yandex](https://events.yandex.ru/lib/talks/1487/), [Linux.com](https://www.linux.com/news/interview-theo-de-raadt-openbsd), [KernelTrap](https://web.archive.org/web/20060421165150/http://kerneltrap.org/node/6)
 * Alexander Yurchenko [eax.me](http://eax.me/eaxcast-s02e01/)
 * David Gwynne [bsdtalk](http://bsdtalk.blogspot.ru/2006/05/bsdtalk046-interview-with-openbsd.html)
-* Stefan Sperling [distrowatch](http://distrowatch.com/weekly.php?issue=20100517#feature), [beastie.pl](http://beastie.pl/deweloperzy-openbsd-stefan-sperling/)
+* Stefan Sperling [distrowatch](http://distrowatch.com/weekly.php?issue=20100517#feature)
 * Bob Beck [bsdtalk](http://bsdtalk.blogspot.ru/2006/09/bsdtalk068-interview-with-openbsd.html)
 * [Lobsters](https://lobste.rs/s/ppopah/lobsters_interview_with_ted_unangst)
 * Marco Peereboom [bsdtalk](https://archive.org/details/bsdtalk027)
 * Daniel Hartmeier [onlamp](http://www.onlamp.com/pub/a/bsd/2004/04/15/pf_developers.html)
 * Joris Vink [bsdtalk](https://archive.org/details/bsdtalk050)
 * Robert Nagy [The Document Foundation](https://blog.documentfoundation.org/blog/2011/01/21/developer-interview-robert-nagy/)
-* Joshua Stein [The Setup](https://usesthis.com/interviews/joshua.stein/), [beastie.pl](http://beastie.pl/deweloperzy-openbsd-joshua-stein/)
+* Joshua Stein [The Setup](https://usesthis.com/interviews/joshua.stein/)
 * Marc Espie [linuxfr.org](http://linuxfr.org/news/entretien-avec-des-d%C3%A9veloppeurs-francophones-dopenbsd-partie-1)
 * Gilles Chehade [bronevichok.ru](https://bronevichok.ru/blog/2014/07/29/testing-of-opensmtpd.html)
 * Henning Brauer [IOException.de](http://tmp.marmaro.de/www.ioexception.de/2013/10/16/interview-henning-brauer/index.html)
