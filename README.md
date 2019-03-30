@@ -142,6 +142,7 @@ NOTE: It's possible to run OpenBSD [even hosting providers don't support it](htt
 - [Grex](http://grex.org/)
 - [Free Shell Accounts](http://shells.red-pill.eu/)
 - [obsd.pl](http://obsd.pl/)
+- [tilde.institute](https://tilde.institute/) of OpenBSD Education
 
 ## Jobs
 
