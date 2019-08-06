@@ -25,7 +25,7 @@
   * [Twitter](#twitter)
   * [Mastodon](#mastodon-bsdnetwork-instance)
   * [Telegram groups](#telegram-groups)
-  * [Interviews](#interviews)
+  * [Interviews with OpenBSD developers](#interviews-with-OpenBSD-developers)
   * [Blogs](#blogs)
 * [Selected articles](#selected-articles)
 * [Third party repositories](#third-party-repositories)
@@ -223,6 +223,7 @@ NOTE: It's possible to run OpenBSD [even hosting providers don't support it](htt
 
 ### Interviews with OpenBSD developers
 
+* Bryan Steele (brynet@) [beastie.pl](https://web.archive.org/web/20160328131143/http://beastie.pl/deweloperzy-openbsd-bryan-steele/)
 * Theo de Raadt [Yandex](https://events.yandex.ru/lib/talks/1487/), [Linux.com](https://www.linux.com/news/interview-theo-de-raadt-openbsd), [KernelTrap](https://web.archive.org/web/20060421165150/http://kerneltrap.org/node/6)
 * Alexander Yurchenko [eax.me](http://eax.me/eaxcast-s02e01/)
 * David Gwynne [bsdtalk](http://bsdtalk.blogspot.ru/2006/05/bsdtalk046-interview-with-openbsd.html)
@@ -233,10 +234,10 @@ NOTE: It's possible to run OpenBSD [even hosting providers don't support it](htt
 * Daniel Hartmeier [onlamp](http://www.onlamp.com/pub/a/bsd/2004/04/15/pf_developers.html)
 * Joris Vink [bsdtalk](https://archive.org/details/bsdtalk050)
 * Robert Nagy [The Document Foundation](https://blog.documentfoundation.org/blog/2011/01/21/developer-interview-robert-nagy/)
-* Joshua Stein [The Setup](https://usesthis.com/interviews/joshua.stein/)
-* Marc Espie [linuxfr.org](http://linuxfr.org/news/entretien-avec-des-d%C3%A9veloppeurs-francophones-dopenbsd-partie-1)
-* Gilles Chehade [bronevichok.ru](https://bronevichok.ru/blog/2014/07/29/testing-of-opensmtpd.html)
-* Henning Brauer [IOException.de](http://tmp.marmaro.de/www.ioexception.de/2013/10/16/interview-henning-brauer/index.html)
+* Joshua Stein [The Setup](https://usesthis.com/interviews/joshua.stein/), [beastie.pl]( https://web.archive.org/web/20160304043723/http://beastie.pl/deweloperzy-openbsd-joshua-stein/)
+* Marc Espie [linuxfr.org](http://linuxfr.org/news/entretien-avec-des-d%C3%A9veloppeurs-francophones-dopenbsd-partie-1), [beastie.pl](https://web.archive.org/web/20160404154248/http://beastie.pl/deweloperzy-openbsd-marc-espie/)
+* Gilles Chehade [bronevichok.ru](https://bronevichok.ru/blog/2014/07/29/testing-of-opensmtpd.html), [beastie.pl](https://web.archive.org/web/20160304040101/http://beastie.pl/deweloperzy-openbsd-gilles-chehade/ )
+* Henning Brauer [IOException.de](http://tmp.marmaro.de/www.ioexception.de/2013/10/16/interview-henning-brauer/index.html), [beastie.pl](https://web.archive.org/web/20160304040842/http://beastie.pl/deweloperzy-openbsd-henning-brauer/)
 * Mike Larkin [bsdtalk](http://bsdtalk.blogspot.ru/2010/08/bsdtalk195-mike-larkin.html)
 * Anil Madhavapeddy [FOSDEM](https://archive.fosdem.org/2012/interview/anil-madhavapeddy.html)
 * Pierre-Yves Ritschard [bsdtalk](http://bsdtalk.blogspot.ru/2007/02/bsdtalk097-openbsd-developer-pierre.html)
@@ -244,7 +245,15 @@ NOTE: It's possible to run OpenBSD [even hosting providers don't support it](htt
 * Jason Wright [bsdtalk](http://bsdtalk.blogspot.ru/2006/11/bsdtalk082-openbsd-developer-jason.html)
 * Marc Balmer [bsdtalk](http://bsdtalk.blogspot.ru/2006/10/bsdtalk076-openbsd-developer-marc.html)
 * Matthieu Herrb [bsdtalk](http://bsdtalk.blogspot.ru/2007/04/bsdtalk106-interview-with-matthieu.html), [bronevichok.ru](https://bronevichok.ru/blog/2014/08/06/testing-of-xorg.html)
- 
+* Ingo Schwarze (schwarze@) [beastie.pl](https://web.archive.org/web/20160404205317/http://beastie.pl/deweloperzy-openbsd-ingo-schwarze/)
+* Vadim Zhukov (zhuk@) [beastie.pl](https://web.archive.org/web/20160304045614/http://beastie.pl/deweloperzy-openbsd-vadim-zhukov/)
+* Dmitrij Czarkoff (czarkoff@) [beastie.pl](https://web.archive.org/web/20160304041801/http://beastie.pl/deweloperzy-openbsd-dmitrij-d-czarkoff/)
+* Landry Breuil (landry@) [beastie.pl](https://web.archive.org/web/20160304044831/http://beastie.pl/deweloperzy-openbsd-landry-breuil/)
+* Ted Unangst (tedu@) [beastie.pl](https://web.archive.org/web/20160304045544/http://beastie.pl/deweloperzy-openbsd-ted-unangst/)
+* Brandon Mercer (bmercer@) [beastie.pl](https://web.archive.org/web/20160304051407/http://beastie.pl/deweloperzy-openbsd-brandon-mercer/)
+* Antoine Jacoutot (ajacoutot@) [beastie.pl](https://web.archive.org/web/20160304052709/http://beastie.pl/deweloperzy-openbsd-antoine-jacoutot/)
+* Stefan Sperling (stsp@) [beastie.pl](https://web.archive.org/web/20160304044753/http://beastie.pl/deweloperzy-openbsd-stefan-sperling/)
+
 ### Blogs
 
 * [Ted Unangst](http://www.tedunangst.com/flak/)
