@@ -52,6 +52,7 @@
 * [OpenBGPD](http://www.openbgpd.org/) - free implementation of the Border Gateway Protocol, Version 4
 * [OpenIKED](http://www.openiked.org/) - free implementation of the Internet Key Exchange (IKEv2) protocol
 * [mandoc](http://mdocml.bsd.lv/) - free UNIX manpage compiler toolset
+* [Game of Trees](http://gameoftrees.org/) - (Got) a version control system which prioritizes ease of use and simplicity over flexibility. 
 
 ## OpenBSD Ports
 
