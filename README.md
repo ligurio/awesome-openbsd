@@ -157,6 +157,7 @@ NOTE: It's possible to run OpenBSD [even hosting providers don't support it](htt
 * [Quora](https://www.quora.com/topic/OpenBSD)
 * [#OpenBSD](http://webchat.freenode.net?channels=%23openbsd) on irc.freenode.net
 * [Gitter](https://gitter.im/BSDs/OpenBSD)
+* [bsd.network](https://bsd.network/)
 
 ### News
 
