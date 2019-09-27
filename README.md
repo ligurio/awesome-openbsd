@@ -105,7 +105,7 @@ this fact is not widely publicised.
 
 - [flashrd](http://www.nmedia.net/flashrd/)
 - [Security Router](http://securityrouter.org/wiki/Main_Page)
-- [MirOS](https://www.mirbsd.org/)
+- [MirOS](https://www.mirbsd.org/) (Not in active development)
 - [Bitrig](https://www.bitrig.org/)
 - [reflash](https://stable.rcesoftware.com/resflash/)
 
@@ -151,12 +151,16 @@ NOTE: It's possible to run OpenBSD [even hosting providers don't support it](htt
 
 ## Community
 
-* [announce@openbsd.org](https://www.openbsd.org/mail.html)
-* [misc@openbsd.org](https://www.openbsd.org/mail.html)
-* [/r/openbsd](https://www.reddit.com/r/openbsd/)
-* [Quora](https://www.quora.com/topic/OpenBSD)
-* [#OpenBSD](http://webchat.freenode.net?channels=%23openbsd) on irc.freenode.net
-* [Gitter](https://gitter.im/BSDs/OpenBSD)
+* [announce@openbsd.org](https://www.openbsd.org/mail.html) - 7,228
+* [misc@openbsd.org](https://www.openbsd.org/mail.html) - 4,829
+* Twitter [@openbsdjournal](https://twitter.com/openbsdjournal) - 4,568
+* [/r/openbsd](https://www.reddit.com/r/openbsd/) - 3,525
+* [Quora](https://www.quora.com/topic/OpenBSD) - 2,300
+* [Google Plus](https://plus.google.com/communities/113634135604793474364) - 1,416 (Closing August, 2019)
+* [#OpenBSD](http://webchat.freenode.net?channels=%23openbsd) on irc.freenode.net - 683
+* [Planet OpenBSD](http://openbsdnow.org/) - 75
+* [Gitter](https://gitter.im/BSDs/OpenBSD) - 3
+* https://unitedbsd.com/
 * [bsd.network](https://bsd.network/)
 
 ### News
@@ -165,7 +169,8 @@ NOTE: It's possible to run OpenBSD [even hosting providers don't support it](htt
 * [Planet OpenBSD](https://bronevichok.ru/openbsdnow/) - [src repo](https://github.com/ligurio/openbsdnow.org)
 * [Lobsters OpenBSD tag](https://lobste.rs/t/openbsd)
 * [reddit community](http://reddit.com/r/openbsd/)
-* [Google Plus community](https://plus.google.com/communities/113634135604793474364)
+* [Google Plus community](https://plus.google.com/communities/113634135604793474364) (Closing August, 2019)
+* [UnitedBSD](https://unitedbsd.com/c/openbsd)
 
 ### Conferences
 
@@ -173,7 +178,7 @@ NOTE: It's possible to run OpenBSD [even hosting providers don't support it](htt
 - [NYCBSDCon](http://www.nycbsdcon.org/)
 - [MeetBSD](http://meetbsd.org/)
 - [AsiaBSDCon](https://asiabsdcon.org)
-- vBSDCon
+- [vBSDCon](https://www.verisign.com/en_US/internet-technology-news/verisign-events/vbsdcon/index.xhtml)
 - [OpenKyiv](http://www.uaoug.org.ua/openkyiv/)
 - [KyivBSD](http://ru.kyivbsd.org.ua/)
 - [BSDTW](https://bsdtw.org/)
@@ -215,6 +220,12 @@ NOTE: It's possible to run OpenBSD [even hosting providers don't support it](htt
 * [@AFresh1](https://bsd.network/@AFresh1)
 * [@bcallah](https://bsd.network/@bcallah)
 * [@romanzolotarev](https://bsd.network/@romanzolotarev)
+* [@akpoff](https://bsd.network/@akpoff)
+* [@brynet](https://bsd.network/@brynet)
+* [@h3artbl33d](https://bsd.network/@h3artbl33d)
+* [@OpenBSDAms](https://bsd.network/@OpenBSDAms)
+* [@openbsdnow](https://bsd.network/@openbsdnow)
+* [@polishdub](https://bsd.network/@polishdub)
 
 ### Telegram Groups
 
