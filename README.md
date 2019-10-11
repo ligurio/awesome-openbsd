@@ -5,7 +5,7 @@
 ## Index
 
 * [Official OpenBSD](#official-openbsd)
-  * [Related projects](#related-projects)
+  * [Inside projects](#inside-projects)
 * [Non-official OpenBSD websites](#non-official-openbsd-websites)
 * [OpenBSD-based products](#openbsd-based-products)
   * [OpenBSD-based commercial products](#openbsd-based-commercial-products)
@@ -43,7 +43,7 @@
 * [Donations](https://www.openbsd.org/donations.html)
 * [OpenBSD Foundation](http://www.openbsdfoundation.org/) - Funding for OpenBSD and related Projects
 
-### Related projects
+### Inside projects
 
 * [OpenSSH](http://www.openssh.com/) - the premier connectivity tool for remote login with the SSH protocol
 * [LibreSSL](http://www.libressl.org/) - a version of the TLS/crypto stack forked from OpenSSL in 2014, with goals of modernizing the codebase, improving security, and applying best practice development processes
@@ -52,7 +52,7 @@
 * [OpenBGPD](http://www.openbgpd.org/) - free implementation of the Border Gateway Protocol, Version 4
 * [OpenIKED](http://www.openiked.org/) - free implementation of the Internet Key Exchange (IKEv2) protocol
 * [mandoc](http://mdocml.bsd.lv/) - free UNIX manpage compiler toolset
-* [Game of Trees](http://gameoftrees.org/) - (Got) a version control system which prioritizes ease of use and simplicity over flexibility. 
+* [Game of Trees](http://gameoftrees.org/) - version control system which prioritizes ease of use and simplicity over flexibility
 
 ## OpenBSD Ports
 
