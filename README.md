@@ -52,6 +52,7 @@
 * [OpenBSD ports](http://ports.su/) - `/usr/ports/databases/ports-readmes`
 * [M:Tier's OpenBSD packages and binpatches](https://stable.mtier.org/) - security updates in both packages and base system
 * [portroach](https://portroach.openbsd.org/) - OpenBSD Ports Distfile Scanner
+* [Why OpenBSD rocks - The facts](https://why-openbsd.rocks/)
 
 ## OpenBSD stats
 
