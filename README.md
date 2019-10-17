@@ -17,7 +17,7 @@
   * [Mailing lists](#mailing-lists)
   * [Chats](#chats)
   * [Twitter](#twitter)
-  * [Mastodon](#mastodon-bsdnetwork-instance)
+  * [Mastodon](#mastodon)
   * [Interviews with OpenBSD developers](#interviews-with-OpenBSD-developers)
   * [Blogs](#blogs)
 * [Selected articles](#selected-articles)
@@ -151,7 +151,6 @@
 
 * [@OpenBSD](https://twitter.com/OpenBSD)
 * [OpenBSD Commits To Twitter](https://github.com/afresh1/openbsd-commits-to-twitter) (maintained by [Andrew Fresh](https://twitter.com/afresh1))
-* [OpenBSD Commits To Mastodon](https://github.com/danieljakots/openbsd-commits-to-mastodon)
 * [@OpenBSDJournal](https://twitter.com/openbsdjournal) - tweets to Undeadly.org stories
 * [@OpenSMTPD](https://twitter.com/opensmtpd)
 * [@OpenBSDNow](https://twitter.com/openbsdnow) - OpenBSD News & Updates
@@ -159,6 +158,7 @@
 
 ### Mastodon
 
+* [OpenBSD Commits To Mastodon](https://github.com/danieljakots/openbsd-commits-to-mastodon)
 * [bsd.network](https://bsd.network/)
 * [@phessler](https://bsd.network/@phessler) - bsd.network's admin
 * [@AFresh1](https://bsd.network/@AFresh1)
