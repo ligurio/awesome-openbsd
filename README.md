@@ -7,9 +7,7 @@
 * [Official OpenBSD](#official-openbsd)
   * [Inside projects](#inside-projects)
 * [Non-official OpenBSD websites](#non-official-openbsd-websites)
-* [OpenBSD-based products](#openbsd-based-products)
-  * [OpenBSD-based commercial products](#openbsd-based-commercial-products)
-  * [OpenBSD-based opensource products](#openbsd-based-opensource-products)
+* [OpenBSD-based projects](#openbsd-based-projects)
 * [Hosting](#hosting)
 * [Jobs](#jobs)
 * [Community](#community)
@@ -17,10 +15,9 @@
   * [Conferences](#conferences)
   * [BSD user groups](#bsd-user-groups)
   * [Mailing lists](#mailing-lists)
-  * [IRC](#irc)
+  * [Chats](#chats)
   * [Twitter](#twitter)
   * [Mastodon](#mastodon-bsdnetwork-instance)
-  * [Telegram groups](#telegram-groups)
   * [Interviews with OpenBSD developers](#interviews-with-OpenBSD-developers)
   * [Blogs](#blogs)
 * [Selected articles](#selected-articles)
@@ -79,30 +76,19 @@
 * [OpenBSD stats](http://www.oxide.org/cvs) - CVS commit stats
 * [OpenBSD community metrics](https://github.com/ligurio/notebooks/tree/master/oss-metrics/OpenBSD)
 
-## OpenBSD-based products
+## OpenBSD-based projects
 
-There are many products based on OpenBSD. Information about these products and
-the version of OpenBSD they are based on is often difficult to come by, since
-this fact is not widely publicised.
-
-### OpenBSD-based commercial products
-
-- OpenBSD packet Filter is a part of [Apple Inc.'s OS X and iOS](http://callfortesting.org/macpf/), [Oracle Solaris](https://docs.oracle.com/cd/E53394_01/html/E54829/pfovw-1.html)
-- OpenSSH is a part of many commercial products
-- [RTMX](http://www.rtmx.com/) sells a version of OpenBSD which has a full complement of POSIX real-time features added to it.
-- [genua](https://www.genua.de/) offers sophisticated IT security solutions based on OpenBSD: The two-tier genugate system is the only firewall certified by the German Federal Office for Information Security (BSI) at E3 / high level under the ITSEC international standard.
-- [Fox-IT](https://www.fox-it.com/en/) delivers specialist security and intelligence solutions for government bodies and other major organizations throughout the world. Our core business is developing solutions for the protection of state secrets, the investigation of digital crime, audits, managed security services, consulting and training courses. We use OpenBSD as a trusted platform on which the [DataDiode](http://www.datadiode.eu/) is built.
-- [Esdenera Networks](https://www.esdenera.com/) Networking and security technology for modern cloud-based, decentralized, mobile and software-defined networks based on OpenBSD.
-- [ATMNIS](https://atmnis.com/) - первая и единственная UNIX-подобная защищённая операционная система в Украине, сертифицированная к использованию при создании комплексных систем защиты информации (КСЗИ) классов 2 и 3. See [slides](https://www.atmnis.com/~apelsin/papers/).
-- [Calyptix Security](http://www.calyptix.com/products/models/ae800/) - firewall to protect and manage SMB networks. See [slides](http://www.nycbsdcon.org/2010/presentations/lteo-nycbsdcon2010.pdf).
-- [M:Tier](http://www.mtier.org/about-us/) - OpenBSD thin client (see [slides](http://www.mtier.org/assets/Uploads/latinoware-2013.pdf)), OpenBSD enterprise desktop for Fortune 500 companies (see [slides](http://www.openbsd.org/papers/opencon07-gnome.pdf) and [article](http://undeadly.org/cgi?action=article&sid=20110420080633)), [Long Term Support subscription](https://stable.mtier.org/subscriptions).
-
-### OpenBSD-based opensource products
-
-- [Security Router](http://securityrouter.org/wiki/Main_Page)
-- [MirOS](https://www.mirbsd.org/) (Not in active development)
-- [Bitrig](https://www.bitrig.org/)
-- [reflash](https://stable.rcesoftware.com/resflash/)
+- `closed-source` [RTMX](http://www.rtmx.com/) sells a version of OpenBSD which has a full complement of POSIX real-time features added to it.
+- `closed-source` [genua](https://www.genua.de/) offers sophisticated IT security solutions based on OpenBSD: The two-tier genugate system is the only firewall certified by the German Federal Office for Information Security (BSI) at E3 / high level under the ITSEC international standard.
+- `closed-source` [Fox-IT](https://www.fox-it.com/en/) delivers specialist security and intelligence solutions for government bodies and other major organizations throughout the world. Our core business is developing solutions for the protection of state secrets, the investigation of digital crime, audits, managed security services, consulting and training courses. We use OpenBSD as a trusted platform on which the [DataDiode](http://www.datadiode.eu/) is built.
+- `closed-source` [ATMNIS](https://atmnis.com/) - первая и единственная UNIX-подобная защищённая операционная система в Украине, сертифицированная к использованию при создании комплексных систем защиты информации (КСЗИ) классов 2 и 3. See [slides](https://www.atmnis.com/~apelsin/papers/).
+- `closed-source` [Calyptix Security](http://www.calyptix.com/products/models/ae800/) - firewall to protect and manage SMB networks. See [slides](http://www.nycbsdcon.org/2010/presentations/lteo-nycbsdcon2010.pdf).
+- `closed-source` [M:Tier](http://www.mtier.org/about-us/): OpenBSD thin client ([slides](http://www.mtier.org/assets/Uploads/latinoware-2013.pdf)), OpenBSD enterprise desktop for Fortune 500 companies ([slides](http://www.openbsd.org/papers/opencon07-gnome.pdf) and [article](http://undeadly.org/cgi?action=article&sid=20110420080633)), [Long Term Support subscription](https://stable.mtier.org/subscriptions).
+- `opensource` [Security Router](http://securityrouter.org/wiki/Main_Page)
+- `opensource` [MirOS](https://www.mirbsd.org/)
+- `opensource` [Bitrig](https://www.bitrig.org/)
+- `opensource` [reflash](https://stable.rcesoftware.com/resflash/)
+- `opensource` [OpenBSD Flashboot](https://github.com/kirei/flashboot)
 
 ## Hosting
 
@@ -117,6 +103,7 @@ this fact is not widely publicised.
 * `kvm` [Exoscale](http://exoscale.com/)
 * `kvm` [Google Compute Engine](https://marc.info/?l=openbsd-misc&m=138757967321855&w=2)
 * `xen` [Amazon EC2](https://gist.github.com/reyk/b372af303eb86bab3fee#file-openbsd-amd64-20160809-aws)
+* `xen` [AWS-OpenBSD](https://github.com/ajacoutot/aws-openbsd) - AWS playground for OpenBSD kids
 * `hyper-v` [Azure Devops](https://gist.github.com/reyk/f6d2c7b9567cae7b4270)
 * `shell` [Devio.us](http://devio.us/)
 * `shell` [Polarhome](http://www.polarhome.com/)
@@ -275,8 +262,6 @@ this fact is not widely publicised.
 * [snap, an OpenBSD upgrade tool](https://github.com/qbit/snap)
 * [upobsd](https://bitbucket.org/semarie/upobsd/) - download, verify and patch bsd.rd image
 * [awesome pledge(2)](https://github.com/PeterTonoli/awesome-pledge)
-* [AWS-OpenBSD](https://github.com/ajacoutot/aws-openbsd) - AWS playground for OpenBSD kids
-* [OpenBSD Flashboot](https://github.com/kirei/flashboot) - suitable for booting of flash devices
 * [dotfiles, sweet dotfiles](https://github.com/unbalancedparentheses/dotfiles)
 * [fvwm-config-on-openbsd](https://github.com/bfmartin/fvwm-config-on-openbsd) - Configuration files for the FVWM window manager on a modern OpenBSD
 * [dyndnsd](https://github.com/mario-campos/dyndnsd) - Dynamic DNS Daemon for OpenBSD
