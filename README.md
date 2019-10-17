@@ -77,7 +77,6 @@
 ## OpenBSD stats
 
 * [OpenBSD stats](http://www.oxide.org/cvs) - CVS commit stats
-* [OpenBSD on OpenHub](https://www.openhub.net/p/openbsd) - more stats about the project
 * [OpenBSD community metrics](https://github.com/ligurio/notebooks/tree/master/oss-metrics/OpenBSD)
 
 ## OpenBSD-based products
@@ -100,7 +99,6 @@ this fact is not widely publicised.
 
 ### OpenBSD-based opensource products
 
-- [flashrd](http://www.nmedia.net/flashrd/)
 - [Security Router](http://securityrouter.org/wiki/Main_Page)
 - [MirOS](https://www.mirbsd.org/) (Not in active development)
 - [Bitrig](https://www.bitrig.org/)
@@ -124,47 +122,33 @@ this fact is not widely publicised.
 * `shell` [Polarhome](http://www.polarhome.com/)
 * `shell` [Grex](http://grex.org/)
 * `shell` [Free Shell Accounts](http://shells.red-pill.eu/)
-* `shell` [obsd.pl](http://obsd.pl/)
 * `shell` [tilde.institute](https://tilde.institute/) of OpenBSD Education
 
 ## Jobs
 
-- [BSDjobs](https://www.bsdjobs.com/)
 - [StackOverflow](http://stackoverflow.com/jobs?searchTerm=openbsd)
 - [jobs@lists.nycbug.org](http://lists.nycbug.org/mailman/listinfo/jobs)
 
 ## Community
 
-* [announce@openbsd.org](https://www.openbsd.org/mail.html) - 7,228
-* [misc@openbsd.org](https://www.openbsd.org/mail.html) - 4,829
-* Twitter [@openbsdjournal](https://twitter.com/openbsdjournal) - 4,568
-* [/r/openbsd](https://www.reddit.com/r/openbsd/) - 3,525
-* [Quora](https://www.quora.com/topic/OpenBSD) - 2,300
-* [Google Plus](https://plus.google.com/communities/113634135604793474364) - 1,416 (Closing August, 2019)
-* [#OpenBSD](http://webchat.freenode.net?channels=%23openbsd) on irc.freenode.net - 683
-* [Planet OpenBSD](http://openbsdnow.org/) - 75
-* [Gitter](https://gitter.im/BSDs/OpenBSD) - 3
+* [Quora](https://www.quora.com/topic/OpenBSD)
+* [StackOverflow](https://stackoverflow.com/questions/tagged/openbsd)
 * https://unitedbsd.com/
-* [bsd.network](https://bsd.network/)
 
 ### News
 
 * [Undeadly](http://undeadly.org/) - OpenBSD Journal
 * [Planet OpenBSD](https://bronevichok.ru/openbsdnow/) - [src repo](https://github.com/ligurio/openbsdnow.org)
 * [Lobsters OpenBSD tag](https://lobste.rs/t/openbsd)
-* [reddit community](http://reddit.com/r/openbsd/)
-* [Google Plus community](https://plus.google.com/communities/113634135604793474364) (Closing August, 2019)
-* [UnitedBSD](https://unitedbsd.com/c/openbsd)
+* [Reddit /r/openbsd](http://reddit.com/r/openbsd/)
 
 ### Conferences
 
 - [EuroBSDCon](https://eurobsdcon.org/)
 - [NYCBSDCon](http://www.nycbsdcon.org/)
-- [MeetBSD](http://meetbsd.org/)
 - [AsiaBSDCon](https://asiabsdcon.org)
 - [vBSDCon](https://www.verisign.com/en_US/internet-technology-news/verisign-events/vbsdcon/index.xhtml)
 - [OpenKyiv](http://www.uaoug.org.ua/openkyiv/)
-- [KyivBSD](http://ru.kyivbsd.org.ua/)
 - [BSDTW](https://bsdtw.org/)
 - [bhyvecon](http://bhyvecon.org/)
 - BSD devroom at FOSDEM ([Twitter](https://twitter.com/fosdembsd))
@@ -179,15 +163,20 @@ this fact is not widely publicised.
 
 ### Mailing lists
 
+* https://www.openbsd.org/mail.html
 * [MARC](https://marc.info/):
   * [openbsd-tech](http://marc.info/?l=openbsd-tech)
   * [openbsd-cvs](http://marc.info/?l=openbsd-cvs)
   * [openbsd-ports](http://marc.info/?l=openbsd-ports)
   * [openbsd-misc](http://marc.info/?l=openbsd-misc)
 
-### IRC
+### Chats
 
-* [#OpenBSD](https://webchat.freenode.net/#openbsd) (Freenode)
+* `gitter` https://gitter.im/BSDs/OpenBSD
+* `irc` [#OpenBSD](http://webchat.freenode.net?channels=%23openbsd) on irc.freenode.net
+* `telegram` [OpenBSD Jumpstart](https://t.me/joinchat/EzTjLQuG8Mcj89LYcDGKiQ)
+* `telegram` [OpenBSD Brazil](https://t.me/OpenBSDbr)
+* `telegram` [OpenBSD Spain](https://t.me/OpenBSD_es)
 
 ### Twitter
 
@@ -198,8 +187,9 @@ this fact is not widely publicised.
 * [@OpenBSDNow](https://twitter.com/openbsdnow) - OpenBSD News & Updates
 * [@mpotd_openbsd](https://twitter.com/mpotd_openbsd) - Man Page of The Day
 
-### Mastodon ([bsd.network](https://bsd.network/) instance)
+### Mastodon
 
+* [bsd.network](https://bsd.network/)
 * [@phessler](https://bsd.network/@phessler) - bsd.network's admin
 * [@AFresh1](https://bsd.network/@AFresh1)
 * [@bcallah](https://bsd.network/@bcallah)
@@ -210,12 +200,6 @@ this fact is not widely publicised.
 * [@OpenBSDAms](https://bsd.network/@OpenBSDAms)
 * [@openbsdnow](https://bsd.network/@openbsdnow)
 * [@polishdub](https://bsd.network/@polishdub)
-
-### Telegram Groups
-
-* [OpenBSD Jumpstart](https://t.me/joinchat/EzTjLQuG8Mcj89LYcDGKiQ)
-* [OpenBSD Brazil](https://t.me/OpenBSDbr)
-* [OpenBSD Spain](https://t.me/OpenBSD_es)
 
 ### Interviews with OpenBSD developers
 
