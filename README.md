@@ -201,19 +201,6 @@
 * Antoine Jacoutot (ajacoutot@) [beastie.pl](https://web.archive.org/web/20160304052709/http://beastie.pl/deweloperzy-openbsd-antoine-jacoutot/)
 * Stefan Sperling (stsp@) [beastie.pl](https://web.archive.org/web/20160304044753/http://beastie.pl/deweloperzy-openbsd-stefan-sperling/)
 
-### Blogs
-
-* [Ted Unangst](http://www.tedunangst.com/flak/)
-* [Peter Hansteen](https://bsdly.blogspot.com)
-* [Joshua Stein](https://jcs.org/)
-* [Antoine Jacoutot](https://www.bsdfrog.org/)
-* [Adam Wołk](https://blog.tintagel.pl/)
-* [Nan Xiao](http://nanxiao.me/en/tag/openbsd/)
-* [Roman Zolotarev](https://www.romanzolotarev.com/openbsd/)
-* [Daniel Jakots](https://chown.me/)
-* [Solène Rapenne](https://dataswamp.org/~solene/)
-* [Jeroen a.k.a. h3artbl33d](https://h3artbl33d.nl/blog/)
-
 ## Selected articles
 
 * [Keeping Your OpenBSD System In Trim: A Works For Me Guide](http://bsdly.blogspot.com/2012/07/keeping-your-openbsd-system-in-trim.html)
