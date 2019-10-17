@@ -11,10 +11,6 @@
   * [OpenBSD-based commercial products](#openbsd-based-commercial-products)
   * [OpenBSD-based opensource products](#openbsd-based-opensource-products)
 * [Hosting](#hosting)
-  * [donors to OpenBSD Foundation](#donors-to-openbsd-foundation)
-  * [KVM-based](#kvm-based)
-  * [Other options](#other-options)
-  * [Free Shells](#free-shells)
 * [Jobs](#jobs)
 * [Community](#community)
   * [News](#news)
@@ -110,39 +106,26 @@ this fact is not widely publicised.
 - [Bitrig](https://www.bitrig.org/)
 - [reflash](https://stable.rcesoftware.com/resflash/)
 
-## OpenBSD-friendly Hosting
+## Hosting
 
-### OpenBSD VMM-based
-
-* [OpenBSD Amsterdam](https://openbsd.amsterdam/) - OpenBSD VMs
-
-### KVM-based
-
-* [RootBSD](https://www.rootbsd.net/)
-* [ARP Networks](https://www.arpnetworks.com/)
-* [RamNode](http://ramnode.com/)
-* [Digital Ocean](https://www.digitalocean.com)
-* [Vultr](https://www.vultr.com/docs/setup-openbsd)
-* [Hetzner](https://wiki.hetzner.de/index.php/OpenBSD)
-* [BuyVM](https://buyvm.net/operating-systems/bsd-family/)
-* [Exoscale](http://exoscale.com/) - based on CloudStack
-
-NOTE: It's possible to run OpenBSD [even hosting providers don't support it](https://jcs.org/notaweblog/2014/09/12/remotely_installing_openbsd_qemu/).
-
-### Other options
-
-* Google Compute Engine [instruction](https://marc.info/?l=openbsd-misc&m=138757967321855&w=2)
-* Xen-based: [Amazon EC2](https://gist.github.com/reyk/b372af303eb86bab3fee#file-openbsd-amd64-20160809-aws)
-* [Hyper-V-based](https://gist.github.com/reyk/f6d2c7b9567cae7b4270)
-
-### Free shells
-
-- [Devio.us](http://devio.us/)
-- [Polarhome](http://www.polarhome.com/)
-- [Grex](http://grex.org/)
-- [Free Shell Accounts](http://shells.red-pill.eu/)
-- [obsd.pl](http://obsd.pl/)
-- [tilde.institute](https://tilde.institute/) of OpenBSD Education
+* `vmm` [OpenBSD Amsterdam](https://openbsd.amsterdam/)
+* `kvm` [RootBSD](https://www.rootbsd.net/)
+* `kvm` [ARP Networks](https://www.arpnetworks.com/)
+* `kvm` [RamNode](http://ramnode.com/)
+* `kvm` [Digital Ocean](https://www.digitalocean.com)
+* `kvm` [Vultr](https://www.vultr.com/docs/setup-openbsd)
+* `kvm` [Hetzner](https://wiki.hetzner.de/index.php/OpenBSD)
+* `kvm` [BuyVM](https://buyvm.net/operating-systems/bsd-family/)
+* `kvm` [Exoscale](http://exoscale.com/)
+* `kvm` [Google Compute Engine](https://marc.info/?l=openbsd-misc&m=138757967321855&w=2)
+* `xen` [Amazon EC2](https://gist.github.com/reyk/b372af303eb86bab3fee#file-openbsd-amd64-20160809-aws)
+* `hyper-v` [Azure Devops](https://gist.github.com/reyk/f6d2c7b9567cae7b4270)
+* `shell` [Devio.us](http://devio.us/)
+* `shell` [Polarhome](http://www.polarhome.com/)
+* `shell` [Grex](http://grex.org/)
+* `shell` [Free Shell Accounts](http://shells.red-pill.eu/)
+* `shell` [obsd.pl](http://obsd.pl/)
+* `shell` [tilde.institute](https://tilde.institute/) of OpenBSD Education
 
 ## Jobs
 
@@ -339,4 +322,4 @@ NOTE: It's possible to run OpenBSD [even hosting providers don't support it](htt
 * [file(1)](https://github.com/brynet/file)
 
 ----
-Please [donate](http://www.openbsd.org/donations.html) to the OpenBSD project.
+Please [donate](https://www.openbsd.org/donations.html) to the OpenBSD project.
