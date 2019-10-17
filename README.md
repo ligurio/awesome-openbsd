@@ -5,8 +5,8 @@
 ## Index
 
 * [Official OpenBSD](#official-openbsd)
-  * [Inside projects](#inside-projects)
-* [Non-official OpenBSD websites](#non-official-openbsd-websites)
+* [Projects around OpenBSD](#projects-around-openbsd)
+* [OpenBSD Stats](#openbsd-stats)
 * [OpenBSD-based projects](#openbsd-based-projects)
 * [Hosting](#hosting)
 * [Jobs](#jobs)
@@ -27,49 +27,31 @@
 
 ## Official OpenBSD
 
-* [Innovations](https://www.openbsd.org/innovations.html)
-* [FAQ](https://openbsd.org/faq/)
-* [man pages](http://man.openbsd.org/)
-* [PF's users guide](https://www.openbsd.org/faq/pf/)
-* [Porter's Handbook](https://www.openbsd.org/faq/ports/)
-* [Events & Papers](https://www.openbsd.org/events.html)
-* [Donations](https://www.openbsd.org/donations.html)
-* [OpenBSD Foundation](http://www.openbsdfoundation.org/) - Funding for OpenBSD and related Projects
+* [OpenBSD Project](https://www.openbsd.org/)
+* [OpenBSD Foundation](http://www.openbsdfoundation.org/)
+* OpenBSD Umbrella:
+  * [OpenSSH](http://www.openssh.com/) - the premier connectivity tool for remote login with the SSH protocol
+  * [LibreSSL](http://www.libressl.org/) - a version of the TLS/crypto stack forked from OpenSSL in 2014, with goals of modernizing the codebase, improving security, and applying best practice development processes
+  * [OpenNTPD](http://www.openntpd.org/) - free and easy to use implementation of the Network Time Protocol
+  * [OpenSMTPD](https://www.opensmtpd.org/) - free implementation of the server-side SMTP protocol as defined by RFC 5321
+  * [OpenBGPD](http://www.openbgpd.org/) - free implementation of the Border Gateway Protocol, Version 4
+  * [OpenIKED](http://www.openiked.org/) - free implementation of the Internet Key Exchange (IKEv2) protocol
+  * [mandoc](http://mdocml.bsd.lv/) - free UNIX manpage compiler toolset
+  * [Game of Trees](http://gameoftrees.org/) - version control system which prioritizes ease of use and simplicity over flexibility
 
-### Inside projects
-
-* [OpenSSH](http://www.openssh.com/) - the premier connectivity tool for remote login with the SSH protocol
-* [LibreSSL](http://www.libressl.org/) - a version of the TLS/crypto stack forked from OpenSSL in 2014, with goals of modernizing the codebase, improving security, and applying best practice development processes
-* [OpenNTPD](http://www.openntpd.org/) - free and easy to use implementation of the Network Time Protocol
-* [OpenSMTPD](https://www.opensmtpd.org/) - free implementation of the server-side SMTP protocol as defined by RFC 5321, with some additional standard extensions - [OpenSMTPD-extras](https://github.com/OpenSMTPD/OpenSMTPD-extras)
-* [OpenBGPD](http://www.openbgpd.org/) - free implementation of the Border Gateway Protocol, Version 4
-* [OpenIKED](http://www.openiked.org/) - free implementation of the Internet Key Exchange (IKEv2) protocol
-* [mandoc](http://mdocml.bsd.lv/) - free UNIX manpage compiler toolset
-* [Game of Trees](http://gameoftrees.org/) - version control system which prioritizes ease of use and simplicity over flexibility
-
-## OpenBSD Ports
-
-* [OpenBSD WIP](https://github.com/topics/openbsd-wip)
-* [OpenBSD Ports](http://www.openports.se/) - browse the package collection
-* [OpenBSD ports](http://ports.su/) - /usr/ports/databases/ports-readmes
-* [M:Tier's OpenBSD packages and binpatches](https://stable.mtier.org/) - security updates in both packages and base system
-* [portroach](https://portroach.openbsd.org/) - OpenBSD Ports Distfile Scanner
-
-## Helpful Sites
+## Projects around OpenBSD
 
 * [OpenBSD GIT mirrors](https://github.com/openbsd/) - OpenBSD CVS repository conversions for public consumpiton (managed by OpenBSD hackers)
 * [OpenBSD Testing Infrastructure](http://bluhm.genua.de/) -  infrastructure for semi-automatic testing of source code changes
-* [OpenBSD QA wiki](https://github.com/ligurio/openbsd-tests/wiki)
+* [Unofficial OpenBSD Testing](https://github.com/ligurio/openbsd-tests/)
 * [mdoc.su](http://mdoc.su/) - URL shortener for BSD manual pages
-* [bxr.su OpenGrok](http://bxr.su/) - powerful search on OpenBSD (and other project) code
-* [Status of OpenBSD mirrors](http://spacehopper.org/mirmon/top.html) - 150+ sites in 30 regions
-* [OpenBSD Wikipedia page](https://en.wikipedia.org/wiki/OpenBSD)
-* [Multicast Proxy for OpenBSD](https://github.com/Esdenera/mcast-proxy)
-* [A collection of awesome BSD related stuff](https://github.com/DiscoverBSD/awesome-bsd)
-* [OpenBSD JumpStart](http://www.openbsdjumpstart.org/) - Learn to tame OpenBSD quickly
-* [OpenBSD and you](https://home.nuug.no/~peter/openbsd_and_you/) - How to have fun with the world’s most important free software project (by Peter Hansteen)
-* [PF and Networking Tutorial](https://home.nuug.no/~peter/pftutorial/) - on BSDCan 2018 by Peter Hansteen and Massimiliano Stucchi
-* [OpenBSD Daily](https://blog.tintagel.pl/2017/06/09/openbsd-daily.html) - [mulander/openbsd-daily](https://github.com/mulander/openbsd-daily) - official repository with all openbsd-daily reading by mulander and duncaen
+* [bxr.su](http://bxr.su/) - powerful search on OpenBSD, NetBSD and FreeBSD (and other project) code bases
+* [Status of OpenBSD mirrors](http://spacehopper.org/mirmon/top.html)
+* [OpenBSD WIP](https://github.com/topics/openbsd-wip) - unofficial OpenBSD ports
+* [OpenBSD Ports](http://www.openports.se/) - browse the official package collection
+* [OpenBSD ports](http://ports.su/) - `/usr/ports/databases/ports-readmes`
+* [M:Tier's OpenBSD packages and binpatches](https://stable.mtier.org/) - security updates in both packages and base system
+* [portroach](https://portroach.openbsd.org/) - OpenBSD Ports Distfile Scanner
 
 ## OpenBSD stats
 
@@ -120,7 +102,6 @@
 
 * [Quora](https://www.quora.com/topic/OpenBSD)
 * [StackOverflow](https://stackoverflow.com/questions/tagged/openbsd)
-* https://unitedbsd.com/
 
 ### News
 
@@ -248,24 +229,26 @@
 * [Screencasting with OpenBSD](http://eradman.com/posts/screencasting.html)
 * [OpenBSD's Autoinstall](http://eradman.com/posts/autoinstall-openbsd.html)
 * [Fail2ban on OpenBSD 6.0](http://blog.gordonturner.ca/2016/11/20/fail2ban-on-openbsd-6-0/)
-* [OpenBSD on Soekris](http://wiki.soekris.info/Installing_OpenBSD)
 * [Getting OpenBSD running on Raspberry Pi 3](http://undeadly.org/cgi?action=article&sid=20170409123528)
 * [A simple first server](http://blog.hermes-technology.de/openbsd/server/2017/06/06/a-first-server.html) - A series of posts about OpenBSD server configuration for learning purposes
 * [OpenBSD manpages reading list](https://gist.github.com/QWxleA/0a3e28f4a3387e5087e8f3608c32fd03)
 * [OpenBSD porting workshop, August 11, 2018](https://www.twitch.tv/videos/296003844) - twitch.tv video by bcallah@
 * [Debian on OpenBSD vmd (without qemu or another debian system)](http://www.netzbasis.de/openbsd/vmd-debian/)
-* [Support of OpenBSD pledge(2) in programming languages](https://gist.github.com/ligurio/f6114bd1df371047dd80ea9b8a55c104)
 
 ## Third Party repositories
 
 * [Scripts to run an OpenBSD mirror](https://github.com/bluhm/mirror-openbsd)
 * [snap, an OpenBSD upgrade tool](https://github.com/qbit/snap)
 * [upobsd](https://bitbucket.org/semarie/upobsd/) - download, verify and patch bsd.rd image
-* [awesome pledge(2)](https://github.com/PeterTonoli/awesome-pledge)
-* [dotfiles, sweet dotfiles](https://github.com/unbalancedparentheses/dotfiles)
-* [fvwm-config-on-openbsd](https://github.com/bfmartin/fvwm-config-on-openbsd) - Configuration files for the FVWM window manager on a modern OpenBSD
 * [dyndnsd](https://github.com/mario-campos/dyndnsd) - Dynamic DNS Daemon for OpenBSD
 * [OpenMDNS](https://github.com/haesbaert/mdnsd) - [Mdns daemon for OpenBSD](http://www.haesbaert.org/openmdns/)
+* [awesome pledge(2)](https://github.com/PeterTonoli/awesome-pledge)
+* [Support of OpenBSD pledge(2) in programming languages](https://gist.github.com/ligurio/f6114bd1df371047dd80ea9b8a55c104)
+* [A collection of awesome BSD related stuff](https://github.com/DiscoverBSD/awesome-bsd)
+* [OpenBSD JumpStart](http://www.openbsdjumpstart.org/) - Learn to tame OpenBSD quickly
+* [OpenBSD and you](https://home.nuug.no/~peter/openbsd_and_you/) - How to have fun with the world’s most important free software project (by Peter Hansteen)
+* [PF and Networking Tutorial](https://home.nuug.no/~peter/pftutorial/) - on BSDCan 2018 by Peter Hansteen and Massimiliano Stucchi
+* [OpenBSD Daily](https://blog.tintagel.pl/2017/06/09/openbsd-daily.html) - [mulander/openbsd-daily](https://github.com/mulander/openbsd-daily) - official repository with all openbsd-daily reading by mulander and duncaen
 
 ## OpenBSD Provisioning
 
@@ -279,6 +262,8 @@
 * [desktop-openbsd-starter-kit](https://github.com/matthewgraybosch/desktop-openbsd-starter-kit) - Dotfiles and config files for use with OpenBSD on a desktop or laptop
 * [vedetta](https://github.com/vedetta-com/vedetta) - OpenBSD Router Boilerplate
 * [caesonia](https://github.com/vedetta-com/caesonia) - OpenBSD Email Service (there's also a [Playbook for Caesonia](https://github.com/vedetta-com/ansible-role-caesonia))
+* [dotfiles, sweet dotfiles](https://github.com/unbalancedparentheses/dotfiles)
+* [fvwm-config-on-openbsd](https://github.com/bfmartin/fvwm-config-on-openbsd) - Configuration files for the FVWM window manager on a modern OpenBSD
 
 ## Portable OpenBSD Components
 
