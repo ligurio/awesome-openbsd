@@ -150,7 +150,8 @@
 ### Twitter
 
 * [@OpenBSD](https://twitter.com/OpenBSD)
-* [@OpenBSD_CVS](https://twitter.com/OpenBSD_CVS) - OpenBSD Commit messages in 140 characters or less. For individual modules, see: [@OpenBSD_src](https://twitter.com/OpenBSD_src), [@OpenBSD_ports](https://twitter.com/OpenBSD_ports), [@OpenBSD_www](https://twitter.com/OpenBSD_www), [@OpenBSD_xenocar](https://twitter.com/OpenBSD_xenocar), [@OpenBSD_stable](https://twitter.com/OpenBSD_stable), [@OpenBSD_sets](https://twitter.com/OpenBSD_sets) (all built by [Andrew Fresh](https://twitter.com/afresh1))
+* [OpenBSD Commits To Twitter](https://github.com/afresh1/openbsd-commits-to-twitter) (maintained by [Andrew Fresh](https://twitter.com/afresh1))
+* [OpenBSD Commits To Mastodon](https://github.com/danieljakots/openbsd-commits-to-mastodon)
 * [@OpenBSDJournal](https://twitter.com/openbsdjournal) - tweets to Undeadly.org stories
 * [@OpenSMTPD](https://twitter.com/opensmtpd)
 * [@OpenBSDNow](https://twitter.com/openbsdnow) - OpenBSD News & Updates
