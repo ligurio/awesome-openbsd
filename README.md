@@ -9,6 +9,7 @@
 * [OpenBSD Stats](#openbsd-stats)
 * [OpenBSD-based projects](#openbsd-based-projects)
 * [Hosting](#hosting)
+* [CI](#ci)
 * [Jobs](#jobs)
 * [Community](#community)
   * [News](#news)
@@ -93,6 +94,11 @@
 * `shell` [Grex](http://grex.org/)
 * `shell` [Free Shell Accounts](http://shells.red-pill.eu/)
 * `shell` [tilde.institute](https://tilde.institute/) of OpenBSD Education
+
+## CI
+
+- [Cirrus CI](https://cirrus-ci.org/features/) - FreeBSD support
+- [Sourcehut](https://man.sr.ht/builds.sr.ht/compatibility.md#openbsd) - OpenBSD, FreeBSD and NetBSD support
 
 ## Jobs
 
