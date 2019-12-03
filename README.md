@@ -99,7 +99,7 @@
 
 - [Cirrus CI](https://cirrus-ci.org/features/) - [OpenBSD, FreeBSD support](https://cirrus-ci.org/guide/supported-computing-services/)
 - [Sourcehut](https://man.sr.ht/builds.sr.ht/compatibility.md#openbsd) - OpenBSD, FreeBSD and NetBSD support
-- GitLab ([HowTo](http://frankgroeneveld.nl/2016/04/06/using-gitlab-ci-multi-runner-on-openbsd/))
+- GitLab ([HowTo](http://frankgroeneveld.nl/2016/04/06/using-gitlab-ci-multi-runner-on-openbsd/)), [sysutils/gitlab-runner](http://openbsd-archive.7691.n7.nabble.com/new-sysutils-gitlab-runner-td365939.html#a365948)
 
 ## Jobs
 
