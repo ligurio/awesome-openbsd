@@ -9,6 +9,7 @@
 * [OpenBSD Stats](#openbsd-stats)
 * [OpenBSD-based projects](#openbsd-based-projects)
 * [Hosting](#hosting)
+* [Virtualization](#virtualization)
 * [CI](#ci)
 * [Jobs](#jobs)
 * [Community](#community)
@@ -94,6 +95,11 @@
 * `shell` [Grex](http://grex.org/)
 * `shell` [Free Shell Accounts](http://shells.red-pill.eu/)
 * `shell` [tilde.institute](https://tilde.institute/) of OpenBSD Education
+
+## Virtualization
+
+* [Vagrant support](https://github.com/double-p/vagrant-openbsd)
+* [Packer support](https://github.com/double-p/packer-builder-openbsd-vmm)
 
 ## CI
 
