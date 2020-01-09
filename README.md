@@ -81,7 +81,7 @@
 * `kvm` [RootBSD](https://www.rootbsd.net/)
 * `kvm` [ARP Networks](https://www.arpnetworks.com/)
 * `kvm` [RamNode](http://ramnode.com/)
-* `kvm` [Digital Ocean](https://www.digitalocean.com)
+* `kvm` [Digital Ocean](https://www.digitalocean.com) [How-To](https://www.going-flying.com/blog/openbsd-on-digitalocean.html)
 * `kvm` [Vultr](https://www.vultr.com/docs/setup-openbsd)
 * `kvm` [Hetzner](https://wiki.hetzner.de/index.php/OpenBSD)
 * `kvm` [BuyVM](https://buyvm.net/operating-systems/bsd-family/)
