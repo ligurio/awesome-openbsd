@@ -22,6 +22,7 @@
   * [Mastodon](#mastodon)
   * [Interviews with OpenBSD developers](#interviews-with-OpenBSD-developers)
   * [Blogs](#blogs)
+  * [OpenBSD Countries Communities](#openbsd-countries-communities)
 * [Selected articles](#selected-articles)
 * [Third party repositories](#third-party-repositories)
 * [OpenBSD Provisioning](#openbsd-provisioning)
