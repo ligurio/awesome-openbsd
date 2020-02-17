@@ -224,7 +224,7 @@
 
 ## OpenBSD Countries Communities
 
-* [OpenBSD Brazil](https://openbsd-br.org) - https://openbsd-br.org
+* [OpenBSD Brazil](https://openbsd-br.org)
 
 
 ## Selected articles
