@@ -22,6 +22,7 @@
   * [Mastodon](#mastodon)
   * [Interviews with OpenBSD developers](#interviews-with-OpenBSD-developers)
   * [Blogs](#blogs)
+  * [OpenBSD Countries Communities](#openbsd-countries-communities)
 * [Selected articles](#selected-articles)
 * [Third party repositories](#third-party-repositories)
 * [OpenBSD Provisioning](#openbsd-provisioning)
@@ -216,6 +217,12 @@
 * Brandon Mercer (bmercer@) [beastie.pl](https://web.archive.org/web/20160304051407/http://beastie.pl/deweloperzy-openbsd-brandon-mercer/)
 * Antoine Jacoutot (ajacoutot@) [beastie.pl](https://web.archive.org/web/20160304052709/http://beastie.pl/deweloperzy-openbsd-antoine-jacoutot/)
 * Stefan Sperling (stsp@) [beastie.pl](https://web.archive.org/web/20160304044753/http://beastie.pl/deweloperzy-openbsd-stefan-sperling/)
+
+
+## OpenBSD Countries Communities
+
+* [OpenBSD Brazil](https://openbsd-br.org)
+
 
 ## Selected articles
 
