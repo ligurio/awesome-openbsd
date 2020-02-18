@@ -37,7 +37,6 @@
   * [OpenNTPD](http://www.openntpd.org/) - free and easy to use implementation of the Network Time Protocol
   * [OpenSMTPD](https://www.opensmtpd.org/) - free implementation of the server-side SMTP protocol as defined by RFC 5321
   * [OpenBGPD](http://www.openbgpd.org/) - free implementation of the Border Gateway Protocol, Version 4
-  * [OpenIKED](http://www.openiked.org/) - free implementation of the Internet Key Exchange (IKEv2) protocol
   * [mandoc](http://mdocml.bsd.lv/) - free UNIX manpage compiler toolset
   * [Game of Trees](http://gameoftrees.org/) - version control system which prioritizes ease of use and simplicity over flexibility
 
@@ -65,7 +64,6 @@
 
 - `closed-source` [RTMX](http://www.rtmx.com/) sells a version of OpenBSD which has a full complement of POSIX real-time features added to it.
 - `closed-source` [genua](https://www.genua.de/) offers sophisticated IT security solutions based on OpenBSD: The two-tier genugate system is the only firewall certified by the German Federal Office for Information Security (BSI) at E3 / high level under the ITSEC international standard.
-- `closed-source` [Fox-IT](https://www.fox-it.com/en/) delivers specialist security and intelligence solutions for government bodies and other major organizations throughout the world. Our core business is developing solutions for the protection of state secrets, the investigation of digital crime, audits, managed security services, consulting and training courses. We use OpenBSD as a trusted platform on which the [DataDiode](http://www.datadiode.eu/) is built.
 - `closed-source` [ATMNIS](https://atmnis.com/) - первая и единственная UNIX-подобная защищённая операционная система в Украине, сертифицированная к использованию при создании комплексных систем защиты информации (КСЗИ) классов 2 и 3. See [slides](https://www.atmnis.com/~apelsin/papers/).
 - `closed-source` [Calyptix Security](http://www.calyptix.com/products/models/ae800/) - firewall to protect and manage SMB networks. See [slides](http://www.nycbsdcon.org/2010/presentations/lteo-nycbsdcon2010.pdf).
 - `closed-source` [M:Tier](http://www.mtier.org/about-us/): OpenBSD thin client ([slides](http://www.mtier.org/assets/Uploads/latinoware-2013.pdf)), OpenBSD enterprise desktop for Fortune 500 companies ([slides](http://www.openbsd.org/papers/opencon07-gnome.pdf) and [article](http://undeadly.org/cgi?action=article&sid=20110420080633)), [Long Term Support subscription](https://stable.mtier.org/subscriptions).
@@ -94,7 +92,6 @@
 * `hyper-v` [Azure Devops](https://gist.github.com/reyk/f6d2c7b9567cae7b4270)
 * `shell` [Devio.us](http://devio.us/)
 * `shell` [Polarhome](http://www.polarhome.com/)
-* `shell` [Grex](http://grex.org/)
 * `shell` [Free Shell Accounts](http://shells.red-pill.eu/)
 * `shell` [tilde.institute](https://tilde.institute/) of OpenBSD Education
 
