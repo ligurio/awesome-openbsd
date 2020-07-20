@@ -46,6 +46,7 @@
 
 * [OpenBSD GIT mirrors](https://github.com/openbsd/) - OpenBSD CVS repository conversions for public consumpiton (managed by OpenBSD hackers)
 * [OpenBSD Testing Infrastructure](http://bluhm.genua.de/) -  infrastructure for semi-automatic testing of source code changes
+* [OpenBSD Kernel fuzzer](https://syzkaller.appspot.com/openbsd) - kernel fuzzer, syzkaller, uses declarative description of syscall interfaces to manipulate programs (sequences of syscalls).
 * [Unofficial OpenBSD Testing](https://github.com/ligurio/openbsd-tests/)
 * [mdoc.su](http://mdoc.su/) - URL shortener for BSD manual pages
 * [bxr.su](http://bxr.su/) - powerful search on OpenBSD, NetBSD and FreeBSD (and other project) code bases
