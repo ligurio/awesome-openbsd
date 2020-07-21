@@ -36,16 +36,16 @@
 * OpenBSD Umbrella:
   * [OpenSSH](https://www.openssh.com/) - the premier connectivity tool for remote login with the SSH protocol
   * [LibreSSL](https://www.libressl.org/) - a version of the TLS/crypto stack forked from OpenSSL in 2014, with goals of modernizing the codebase, improving security, and applying best practice development processes
-  * [OpenNTPD](https://www.openntpd.org/) - free and easy to use implementation of the Network Time Protocol
+  * [OpenNTPD](http://www.openntpd.org/) - free and easy to use implementation of the Network Time Protocol
   * [OpenSMTPD](https://www.opensmtpd.org/) - free implementation of the server-side SMTP protocol as defined by RFC 5321
-  * [OpenBGPD](https://www.openbgpd.org/) - free implementation of the Border Gateway Protocol, Version 4
+  * [OpenBGPD](http://www.openbgpd.org/) - free implementation of the Border Gateway Protocol, Version 4
   * [mandoc](https://mdocml.bsd.lv/) - free UNIX manpage compiler toolset
   * [Game of Trees](https://gameoftrees.org/) - version control system which prioritizes ease of use and simplicity over flexibility
 
 ## Projects around OpenBSD
 
 * [OpenBSD GIT mirrors](https://github.com/openbsd/) - OpenBSD CVS repository conversions for public consumpiton (managed by OpenBSD hackers)
-* [OpenBSD Testing Infrastructure](https://bluhm.genua.de/) -  infrastructure for semi-automatic testing of source code changes
+* [OpenBSD Testing Infrastructure](http://bluhm.genua.de/) -  infrastructure for semi-automatic testing of source code changes
 * [Unofficial OpenBSD Testing](https://github.com/ligurio/openbsd-tests/)
 * [mdoc.su](http://mdoc.su/) - URL shortener for BSD manual pages
 * [bxr.su](https://bxr.su/) - powerful search on OpenBSD, NetBSD and FreeBSD (and other project) code bases
