@@ -64,6 +64,7 @@
 
 * [OpenBSD stats](http://www.oxide.org/cvs) - CVS commit stats
 * [OpenBSD community metrics](https://github.com/ligurio/notebooks/tree/master/oss-metrics/OpenBSD)
+* [OpenBSD package stats](https://pkgstat-openbsd.perso.pw/)
 
 ## OpenBSD-based projects
 
