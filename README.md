@@ -78,6 +78,7 @@
 - `opensource` [Bitrig](https://www.bitrig.org/)
 - `opensource` [reflash](https://stable.rcesoftware.com/resflash/)
 - `opensource` [OpenBSD Flashboot](https://github.com/kirei/flashboot)
+- `opensource` [FuguIta](http://fuguita.org/) is a live system based on OpenBSD that is designed to run from removable media. Note a portion of documentation is only available in Japanese.
 
 ## Hosting
 
