@@ -283,6 +283,7 @@
 * [caesonia](https://github.com/vedetta-com/caesonia) - OpenBSD Email Service (there's also a [Playbook for Caesonia](https://github.com/vedetta-com/ansible-role-caesonia))
 * [dotfiles, sweet dotfiles](https://github.com/unbalancedparentheses/dotfiles)
 * [fvwm-config-on-openbsd](https://github.com/bfmartin/fvwm-config-on-openbsd) - Configuration files for the FVWM window manager on a modern OpenBSD
+* [ohmyksh](https://github.com/qbit/ohmyksh) - A framework for OpenBSD's ksh
 
 ## Portable OpenBSD Components
 
