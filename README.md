@@ -60,6 +60,7 @@
 * [portroach](https://portroach.openbsd.org/) - OpenBSD Ports Distfile Scanner
 * [Why OpenBSD rocks - The facts](https://why-openbsd.rocks/)
 * [OpenBSD Handbook](https://www.openbsdhandbook.com/)
+* [OpenBSD Howto](https://www.bsdhowto.ch/)
 
 ## OpenBSD stats
 
