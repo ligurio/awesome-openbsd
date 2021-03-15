@@ -169,6 +169,7 @@
 * `gitter` https://gitter.im/BSDs/OpenBSD
 * `irc` [#OpenBSD](http://webchat.freenode.net?channels=%23openbsd) on irc.freenode.net
 * `irc` [#OpenBSD-Russian](http://webchat.freenode.net?channels=%23openbsd-russian) on irc.freenode.net
+* `matrix` [OpenBSD](https://matrix.to/#/%23openbsd%3Amatrix.org)
 * `telegram` [OpenBSD Jumpstart](https://t.me/joinchat/EzTjLQuG8Mcj89LYcDGKiQ)
 * `telegram` [OpenBSD Brazil](https://t.me/OpenBSDbr)
 * `telegram` [OpenBSD Spain](https://t.me/OpenBSD_es)
