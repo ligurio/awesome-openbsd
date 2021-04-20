@@ -62,6 +62,7 @@
 * [Why OpenBSD rocks - The facts](https://why-openbsd.rocks/)
 * [OpenBSD Handbook](https://www.openbsdhandbook.com/)
 * [OpenBSD Howto](https://www.bsdhowto.ch/)
+* [OpenBSD Router Guide](https://openbsdrouterguide.net/)
 
 ## OpenBSD stats
 
