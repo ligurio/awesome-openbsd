@@ -176,6 +176,7 @@
 * `telegram` [OpenBSD Jumpstart](https://t.me/joinchat/EzTjLQuG8Mcj89LYcDGKiQ)
 * `telegram` [OpenBSD Brazil](https://t.me/OpenBSDbr)
 * `telegram` [OpenBSD Spain](https://t.me/OpenBSD_es)
+* `telegram` [BSDar Argentina](https://t.me/BSDar)
 
 ### Twitter
 
@@ -233,12 +234,10 @@
 * Antoine Jacoutot (ajacoutot@) [beastie.pl](https://web.archive.org/web/20160304052709/http://beastie.pl/deweloperzy-openbsd-antoine-jacoutot/)
 * Stefan Sperling (stsp@) [beastie.pl](https://web.archive.org/web/20160304044753/http://beastie.pl/deweloperzy-openbsd-stefan-sperling/)
 
-
 ## OpenBSD Countries Communities
 
 * [OpenBSD Brazil](https://openbsd-br.org)
 * [OpenBSD Pour Tous (France)](https://openbsd.fr.eu.org/)
-
 
 ## Selected articles
 
@@ -260,6 +259,7 @@
 * [OpenBSD manpages reading list](https://gist.github.com/QWxleA/0a3e28f4a3387e5087e8f3608c32fd03)
 * [OpenBSD porting workshop, August 11, 2018](https://www.twitch.tv/videos/296003844) - twitch.tv video by bcallah@
 * [Debian on OpenBSD vmd (without qemu or another debian system)](https://www.netzbasis.de/openbsd/vmd-debian/)
+* [Nextcloud with OpenBSD](https://docs.nextcloud.com/server/latest/admin_manual/installation/example_openbsd.html)
 
 ## Third Party repositories
 
@@ -279,7 +279,9 @@
 ## OpenBSD Provisioning
 
 * https://github.com/ligurio/openbsd-cookbooks
-* https://cvs.x61.com.ar/cgi-bin/cvsweb/ansible-role-mailserver/
+* https://git.sr.ht/~gonzalo/ansible-role-mailserver
+* https://git.sr.ht/~gonzalo/apu2_setup
+* https://git.sr.ht/~gonzalo/vmm_setup
 * https://github.com/martinbaillie/homebrew-openbsd-pcengines-router/
 * https://github.com/northox/openbsd-apu2
 * https://github.com/elad/openbsd-apu2
