@@ -176,6 +176,7 @@
 * `telegram` [OpenBSD Jumpstart](https://t.me/joinchat/EzTjLQuG8Mcj89LYcDGKiQ)
 * `telegram` [OpenBSD Brazil](https://t.me/OpenBSDbr)
 * `telegram` [OpenBSD Spain](https://t.me/OpenBSD_es)
+* `telegram` [BSDar Argentina](https://t.me/BSDar)
 
 ### Twitter
 
@@ -239,7 +240,6 @@
 * [OpenBSD Brazil](https://openbsd-br.org)
 * [OpenBSD Pour Tous (France)](https://openbsd.fr.eu.org/)
 
-
 ## Selected articles
 
 * [Keeping Your OpenBSD System In Trim: A Works For Me Guide](https://bsdly.blogspot.com/2012/07/keeping-your-openbsd-system-in-trim.html)
@@ -279,7 +279,9 @@
 ## OpenBSD Provisioning
 
 * https://github.com/ligurio/openbsd-cookbooks
-* https://cvs.x61.com.ar/cgi-bin/cvsweb/ansible-role-mailserver/
+* https://git.sr.ht/~gonzalo/ansible-role-mailserver
+* https://git.sr.ht/~gonzalo/apu2_setup
+* https://git.sr.ht/~gonzalo/vmm_setup
 * https://github.com/martinbaillie/homebrew-openbsd-pcengines-router/
 * https://github.com/northox/openbsd-apu2
 * https://github.com/elad/openbsd-apu2
