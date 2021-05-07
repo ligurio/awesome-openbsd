@@ -293,6 +293,7 @@
 * [dotfiles, sweet dotfiles](https://github.com/unbalancedparentheses/dotfiles)
 * [fvwm-config-on-openbsd](https://github.com/bfmartin/fvwm-config-on-openbsd) - Configuration files for the FVWM window manager on a modern OpenBSD
 * [ohmyksh](https://github.com/qbit/ohmyksh) - A framework for OpenBSD's ksh
+* [openbsd.run](https://openbsd.run/) - An OpenBSD-focused Ansible playbook embedded in type-annotated Python
 
 ## Portable OpenBSD Components
 
