@@ -24,6 +24,7 @@
   * [Blogs](#blogs)
   * [OpenBSD Countries Communities](#openbsd-countries-communities)
 * [Selected articles](#selected-articles)
+* [Videos](#videos)
 * [Third party repositories](#third-party-repositories)
 * [OpenBSD Provisioning](#openbsd-provisioning)
 * [Portable OpenBSD Components](#portable-openbsd-components)
@@ -260,6 +261,10 @@
 * [OpenBSD porting workshop, August 11, 2018](https://www.twitch.tv/videos/296003844) - twitch.tv video by bcallah@
 * [Debian on OpenBSD vmd (without qemu or another debian system)](https://www.netzbasis.de/openbsd/vmd-debian/)
 * [Nextcloud with OpenBSD](https://docs.nextcloud.com/server/latest/admin_manual/installation/example_openbsd.html)
+
+## Videos
+
+
 
 ## Third Party repositories
 
