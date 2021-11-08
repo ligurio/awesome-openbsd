@@ -24,6 +24,7 @@
   * [Blogs](#blogs)
   * [OpenBSD Countries Communities](#openbsd-countries-communities)
 * [Selected articles](#selected-articles)
+* [Videos](#videos)
 * [Third party repositories](#third-party-repositories)
 * [OpenBSD Provisioning](#openbsd-provisioning)
 * [Portable OpenBSD Components](#portable-openbsd-components)
@@ -170,7 +171,7 @@
 ### Chats
 
 * `gitter` https://gitter.im/BSDs/OpenBSD
-* `irc` [#OpenBSD](http://webchat.freenode.net?channels=%23openbsd) on irc.freenode.net
+* `irc` [#OpenBSD](https://web.libera.chat/?channels=#openbsd) on irc.libera.chat
 * `irc` [#OpenBSD-Russian](http://webchat.freenode.net?channels=%23openbsd-russian) on irc.freenode.net
 * `matrix` [OpenBSD](https://matrix.to/#/%23openbsd%3Amatrix.org)
 * `telegram` [OpenBSD Jumpstart](https://t.me/joinchat/EzTjLQuG8Mcj89LYcDGKiQ)
@@ -262,6 +263,10 @@
 * [Nextcloud with OpenBSD](https://docs.nextcloud.com/server/latest/admin_manual/installation/example_openbsd.html)
 * [An Introduction to OpenBSD](https://www.youtube.com/watch?v=EkDVKthufAM)
 
+## Videos
+
+
+
 ## Third Party repositories
 
 * [Scripts to run an OpenBSD mirror](https://github.com/bluhm/mirror-openbsd)
@@ -294,6 +299,7 @@
 * [dotfiles, sweet dotfiles](https://github.com/unbalancedparentheses/dotfiles)
 * [fvwm-config-on-openbsd](https://github.com/bfmartin/fvwm-config-on-openbsd) - Configuration files for the FVWM window manager on a modern OpenBSD
 * [ohmyksh](https://github.com/qbit/ohmyksh) - A framework for OpenBSD's ksh
+* [openbsd.run](https://openbsd.run/) - An OpenBSD-focused Ansible playbook embedded in type-annotated Python
 
 ## Portable OpenBSD Components
 
