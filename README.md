@@ -261,11 +261,10 @@
 * [OpenBSD porting workshop, August 11, 2018](https://www.twitch.tv/videos/296003844) - twitch.tv video by bcallah@
 * [Debian on OpenBSD vmd (without qemu or another debian system)](https://www.netzbasis.de/openbsd/vmd-debian/)
 * [Nextcloud with OpenBSD](https://docs.nextcloud.com/server/latest/admin_manual/installation/example_openbsd.html)
-* [An Introduction to OpenBSD](https://www.youtube.com/watch?v=EkDVKthufAM)
 
 ## Videos
 
-
+* [An Introduction to OpenBSD](https://www.youtube.com/watch?v=EkDVKthufAM)
 
 ## Third Party repositories
 
