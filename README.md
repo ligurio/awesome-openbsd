@@ -294,7 +294,6 @@
 * https://github.com/elad/openbsd-apu2
 * https://github.com/cullum/dank-selfhosted
 * https://github.com/codeghar/openbsd-on-erl
-* [desktop-openbsd-starter-kit](https://github.com/matthewgraybosch/desktop-openbsd-starter-kit) - Dotfiles and config files for use with OpenBSD on a desktop or laptop
 * [vedetta](https://github.com/vedetta-com/vedetta) - OpenBSD Router Boilerplate
 * [caesonia](https://github.com/vedetta-com/caesonia) - OpenBSD Email Service (there's also a [Playbook for Caesonia](https://github.com/vedetta-com/ansible-role-caesonia))
 * [dotfiles, sweet dotfiles](https://github.com/unbalancedparentheses/dotfiles)
