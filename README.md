@@ -93,7 +93,7 @@
 * `kvm` [Data Center Light](https://twitter.com/reykfloeter/status/1146714795552509952)
 * `xen` [Amazon EC2](https://gist.github.com/reyk/b372af303eb86bab3fee#file-openbsd-amd64-20160809-aws)
 * `xen` [AWS-OpenBSD](https://github.com/ajacoutot/aws-openbsd) - AWS playground for OpenBSD kids
-* `xen` [prgmr.com](https://prgmr.com/xen/) ([How-To Setup](https://wiki.prgmr.com/mediawiki/index.php/OpenBSD))
+* `xen` [TornadoVPS](https://tornadovps.com/) ([How-To Setup](https://tornadovps.com/documentation/openbsd))(formerly prgmr.com)
 * `hyper-v` [Azure Devops](https://gist.github.com/reyk/f6d2c7b9567cae7b4270)
 * `shell` [Devio.us](https://devio.us/)
 * `shell` [Polarhome](https://www.polarhome.com/)
