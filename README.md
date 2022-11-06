@@ -72,15 +72,10 @@
 
 ## OpenBSD-based projects
 
-- `closed-source` [RTMX](https://www.rtmx.com/) sells a version of OpenBSD which has a full complement of POSIX real-time features added to it.
 - `closed-source` [genua](https://www.genua.de/) offers sophisticated IT security solutions based on OpenBSD: The two-tier genugate system is the only firewall certified by the German Federal Office for Information Security (BSI) at E3 / high level under the ITSEC international standard.
-- `closed-source` [ATMNIS](https://atmnis.com/) - первая и единственная UNIX-подобная защищённая операционная система в Украине, сертифицированная к использованию при создании комплексных систем защиты информации (КСЗИ) классов 2 и 3. See [slides](https://www.atmnis.com/~apelsin/papers/).
 - `closed-source` [Calyptix Security](https://www.calyptix.com/products/models/) - firewall to protect and manage SMB networks. See [slides](http://www.nycbsdcon.org/2010/presentations/lteo-nycbsdcon2010.pdf).
 - `closed-source` [M:Tier](https://www.mtier.org/about-us/): OpenBSD thin client ([slides](http://www.mtier.org/assets/Uploads/latinoware-2013.pdf)), OpenBSD enterprise desktop for Fortune 500 companies ([slides](http://www.openbsd.org/papers/opencon07-gnome.pdf) and [article](http://undeadly.org/cgi?action=article&sid=20110420080633)), [Long Term Support subscription](https://stable.mtier.org/subscriptions).
-- `opensource` [MirOS](https://www.mirbsd.org/)
-- `opensource` [Bitrig](https://www.bitrig.org/)
 - `opensource` [reflash](https://stable.rcesoftware.com/resflash/)
-- `opensource` [OpenBSD Flashboot](https://github.com/kirei/flashboot)
 - `opensource` [FuguIta](http://fuguita.org/) is a live system based on OpenBSD that is designed to run from removable media. Note a portion of documentation is only available in Japanese.
 
 ## Hosting
