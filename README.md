@@ -72,16 +72,10 @@
 
 ## OpenBSD-based projects
 
-- `closed-source` [RTMX](https://www.rtmx.com/) sells a version of OpenBSD which has a full complement of POSIX real-time features added to it.
 - `closed-source` [genua](https://www.genua.de/) offers sophisticated IT security solutions based on OpenBSD: The two-tier genugate system is the only firewall certified by the German Federal Office for Information Security (BSI) at E3 / high level under the ITSEC international standard.
-- `closed-source` [ATMNIS](https://atmnis.com/) - первая и единственная UNIX-подобная защищённая операционная система в Украине, сертифицированная к использованию при создании комплексных систем защиты информации (КСЗИ) классов 2 и 3. See [slides](https://www.atmnis.com/~apelsin/papers/).
 - `closed-source` [Calyptix Security](https://www.calyptix.com/products/models/) - firewall to protect and manage SMB networks. See [slides](http://www.nycbsdcon.org/2010/presentations/lteo-nycbsdcon2010.pdf).
 - `closed-source` [M:Tier](https://www.mtier.org/about-us/): OpenBSD thin client ([slides](http://www.mtier.org/assets/Uploads/latinoware-2013.pdf)), OpenBSD enterprise desktop for Fortune 500 companies ([slides](http://www.openbsd.org/papers/opencon07-gnome.pdf) and [article](http://undeadly.org/cgi?action=article&sid=20110420080633)), [Long Term Support subscription](https://stable.mtier.org/subscriptions).
-- `opensource` [Security Router](https://securityrouter.org/wiki/Main_Page)
-- `opensource` [MirOS](https://www.mirbsd.org/)
-- `opensource` [Bitrig](https://www.bitrig.org/)
 - `opensource` [reflash](https://stable.rcesoftware.com/resflash/)
-- `opensource` [OpenBSD Flashboot](https://github.com/kirei/flashboot)
 - `opensource` [FuguIta](http://fuguita.org/) is a live system based on OpenBSD that is designed to run from removable media. Note a portion of documentation is only available in Japanese.
 
 ## Hosting
@@ -99,7 +93,7 @@
 * `kvm` [Data Center Light](https://twitter.com/reykfloeter/status/1146714795552509952)
 * `xen` [Amazon EC2](https://gist.github.com/reyk/b372af303eb86bab3fee#file-openbsd-amd64-20160809-aws)
 * `xen` [AWS-OpenBSD](https://github.com/ajacoutot/aws-openbsd) - AWS playground for OpenBSD kids
-* `xen` [prgmr.com](https://prgmr.com/xen/) ([How-To Setup](https://wiki.prgmr.com/mediawiki/index.php/OpenBSD))
+* `xen` [TornadoVPS](https://tornadovps.com/) ([How-To Setup](https://tornadovps.com/documentation/openbsd))(formerly prgmr.com)
 * `hyper-v` [Azure Devops](https://gist.github.com/reyk/f6d2c7b9567cae7b4270)
 * `shell` [Devio.us](https://devio.us/)
 * `shell` [Polarhome](https://www.polarhome.com/)
@@ -306,7 +300,6 @@
 * https://github.com/elad/openbsd-apu2
 * https://github.com/cullum/dank-selfhosted
 * https://github.com/codeghar/openbsd-on-erl
-* [desktop-openbsd-starter-kit](https://github.com/matthewgraybosch/desktop-openbsd-starter-kit) - Dotfiles and config files for use with OpenBSD on a desktop or laptop
 * [vedetta](https://github.com/vedetta-com/vedetta) - OpenBSD Router Boilerplate
 * [caesonia](https://github.com/vedetta-com/caesonia) - OpenBSD Email Service (there's also a [Playbook for Caesonia](https://github.com/vedetta-com/ansible-role-caesonia))
 * [dotfiles, sweet dotfiles](https://github.com/unbalancedparentheses/dotfiles)
