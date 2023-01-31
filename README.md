@@ -53,7 +53,7 @@
 * [Hardware for OpenBSD](https://bsd-hardware.info/?d=OpenBSD) - anonymously collect hardware details of BSD-powered computers.
 * [Unofficial OpenBSD Testing](https://github.com/ligurio/openbsd-tests/)
 * [mdoc.su](http://mdoc.su/) - URL shortener for BSD manual pages
-* [bxr.su](https://bxr.su/) - powerful search on OpenBSD, NetBSD and FreeBSD (and other project) code bases
+* [bxr.su](http://bxr.su/) - powerful search on OpenBSD, NetBSD and FreeBSD (and other project) code bases
 * [Status of OpenBSD mirrors](https://spacehopper.org/mirmon/top.html)
 * [OpenBSD WIP](https://github.com/topics/openbsd-wip) - unofficial OpenBSD ports
 * [OpenBSD ports](http://ports.su/) - `/usr/ports/databases/ports-readmes`
