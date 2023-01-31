@@ -269,10 +269,6 @@
 * [An Introduction to OpenBSD](https://www.youtube.com/watch?v=EkDVKthufAM)
 * [OpenBSD talks, interviews and guides](https://www.youtube.com/playlist?list=PLbET-7keUM8qdq16cDrx-dw2SVXBLH4hk)
 
-## Videos
-
-
-
 ## Third Party repositories
 
 * [Scripts to run an OpenBSD mirror](https://github.com/bluhm/mirror-openbsd)
