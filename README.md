@@ -101,7 +101,6 @@
 * `shell` [Polarhome](https://www.polarhome.com/)
 * `shell` [Free Shell Accounts](https://shells.red-pill.eu/)
 * `shell` [tilde.institute](https://tilde.institute/) of OpenBSD Education
-* `bhyve` [bhyve.cloud](https://bhyve.cloud/)
 
 ## Virtualization
 
