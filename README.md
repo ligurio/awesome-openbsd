@@ -274,6 +274,7 @@
 
 ## Third Party repositories
 
+* [OpenBSD wallpapers](https://github.com/raffaelschneider/openbsd-wallpapers/)
 * [Scripts to run an OpenBSD mirror](https://github.com/bluhm/mirror-openbsd)
 * [snap, an OpenBSD upgrade tool](https://github.com/qbit/snap)
 * [upobsd](https://bitbucket.org/semarie/upobsd/) - download, verify and patch bsd.rd image
