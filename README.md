@@ -91,6 +91,7 @@
 * `kvm` [Hetzner](https://wiki.hetzner.de/index.php/OpenBSD)
 * `kvm` [BuyVM](https://buyvm.net/operating-systems/bsd-family/)
 * `kvm` [Exoscale](http://exoscale.com/)
+* `kvm` [BoxyBSD](https://boxybsd.com/)
 * `kvm` [Google Compute Engine](https://marc.info/?l=openbsd-misc&m=138757967321855&w=2)
 * `kvm` [Data Center Light](https://twitter.com/reykfloeter/status/1146714795552509952)
 * `xen` [Amazon EC2](https://gist.github.com/reyk/b372af303eb86bab3fee#file-openbsd-amd64-20160809-aws)
