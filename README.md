@@ -38,12 +38,12 @@
 * OpenBSD Umbrella:
   * [OpenSSH](https://www.openssh.com/) - the premier connectivity tool for remote login with the SSH protocol
   * [LibreSSL](https://www.libressl.org/) - a version of the TLS/crypto stack forked from OpenSSL in 2014, with goals of modernizing the codebase, improving security, and applying best practice development processes
-  * [OpenNTPD](http://www.openntpd.org/) - free and easy to use implementation of the Network Time Protocol
+  * [OpenNTPD](https://www.openntpd.org/) - free and easy to use implementation of the Network Time Protocol
   * [OpenSMTPD](https://www.opensmtpd.org/) - free implementation of the server-side SMTP protocol as defined by RFC 5321
-  * [OpenBGPD](http://www.openbgpd.org/) - free implementation of the Border Gateway Protocol, Version 4
+  * [OpenBGPD](https://www.openbgpd.org/) - free implementation of the Border Gateway Protocol, Version 4
   * [rpki-client](https://www.rpki-client.org/) - free and easy-to-use implementation of the RPKI for Relying Parties (RP) to facilitate validation of the Route Origin of a BGP announcement
-  * [mandoc](http://mdocml.bsd.lv/) - free UNIX manpage compiler toolset
-  * [Game of Trees](http://gameoftrees.org/) - version control system which prioritizes ease of use and simplicity over flexibility
+  * [mandoc](https://mandoc.bsd.lv/) - free UNIX manpage compiler toolset
+  * [Game of Trees](https://gameoftrees.org/) - version control system which prioritizes ease of use and simplicity over flexibility
 
 ## Projects around OpenBSD
 
@@ -76,9 +76,9 @@
 
 - `closed-source` [genua](https://www.genua.de/) offers sophisticated IT security solutions based on OpenBSD: The two-tier genugate system is the only firewall certified by the German Federal Office for Information Security (BSI) at E3 / high level under the ITSEC international standard.
 - `closed-source` [Calyptix Security](https://www.calyptix.com/products/models/) - firewall to protect and manage SMB networks. See [slides](http://www.nycbsdcon.org/2010/presentations/lteo-nycbsdcon2010.pdf).
-- `closed-source` [M:Tier](https://www.mtier.org/about-us/): OpenBSD thin client ([slides](http://www.mtier.org/assets/Uploads/latinoware-2013.pdf)), OpenBSD enterprise desktop for Fortune 500 companies ([slides](http://www.openbsd.org/papers/opencon07-gnome.pdf) and [article](http://undeadly.org/cgi?action=article&sid=20110420080633)), [Long Term Support subscription](https://stable.mtier.org/subscriptions).
+- `closed-source` [M:Tier](https://www.mtier.org/about-us/): OpenBSD thin client ([slides](http://www.mtier.org/assets/Uploads/latinoware-2013.pdf)), OpenBSD enterprise desktop for Fortune 500 companies ([slides](https://www.openbsd.org/papers/opencon07-gnome.pdf) and [article](https://undeadly.org/cgi?action=article&sid=20110420080633)), [Long Term Support subscription](https://stable.mtier.org/subscriptions).
 - `opensource` [reflash](https://stable.rcesoftware.com/resflash/)
-- `opensource` [FuguIta](http://fuguita.org/) is a live system based on OpenBSD that is designed to run from removable media. Note a portion of documentation is only available in Japanese.
+- `opensource` [FuguIta](https://fuguita.org/) is a live system based on OpenBSD that is designed to run from removable media. Note a portion of documentation is only available in Japanese.
 
 ## Hosting
 
@@ -90,7 +90,7 @@
 * `kvm` [Vultr](https://www.vultr.com/docs/setup-openbsd)
 * `kvm` [Hetzner](https://wiki.hetzner.de/index.php/OpenBSD)
 * `kvm` [BuyVM](https://buyvm.net/operating-systems/bsd-family/)
-* `kvm` [Exoscale](http://exoscale.com/)
+* `kvm` [Exoscale](https://exoscale.com/)
 * `kvm` [BoxyBSD](https://boxybsd.com/)
 * `kvm` [Google Compute Engine](https://marc.info/?l=openbsd-misc&m=138757967321855&w=2)
 * `kvm` [Data Center Light](https://twitter.com/reykfloeter/status/1146714795552509952)
