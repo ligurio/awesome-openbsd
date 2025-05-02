@@ -34,6 +34,7 @@
 
 * [OpenBSD Project](https://www.openbsd.org/)
 * [OpenBSD Foundation](https://www.openbsdfoundation.org/)
+* [OpenBSD FAQ](https://www.openbsd.org/faq/)
 * OpenBSD Umbrella:
   * [OpenSSH](https://www.openssh.com/) - the premier connectivity tool for remote login with the SSH protocol
   * [LibreSSL](https://www.libressl.org/) - a version of the TLS/crypto stack forked from OpenSSL in 2014, with goals of modernizing the codebase, improving security, and applying best practice development processes
@@ -62,7 +63,6 @@
 * [M:Tier's OpenBSD packages and binpatches](https://stable.mtier.org/) - security updates in both packages and base system
 * [portroach](https://portroach.openbsd.org/) - OpenBSD Ports Distfile Scanner
 * [Why OpenBSD rocks - The facts](https://why-openbsd.rocks/)
-* [OpenBSD Handbook](https://www.openbsdhandbook.com/)
 * [OpenBSD Howto](https://www.bsdhowto.ch/)
 * [OpenBSD Router Guide](https://openbsdrouterguide.net/)
 
