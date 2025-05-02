@@ -355,6 +355,7 @@
 - https://github.com/busterb
 - https://github.com/marcespie
 - https://github.com/bsdkurt
+- https://github.com/bentley
 
 ----
 Please [donate](https://www.openbsd.org/donations.html) to the OpenBSD project.
