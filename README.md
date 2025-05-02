@@ -57,7 +57,6 @@
 * [bxr.su](http://bxr.su/) - powerful search on OpenBSD, NetBSD and FreeBSD (and other project) code bases
 * [Status of OpenBSD mirrors](https://spacehopper.org/mirmon/top.html)
 * [OpenBSD WIP](https://github.com/topics/openbsd-wip) - unofficial OpenBSD ports
-* [OpenBSD ports](http://ports.su/) - `/usr/ports/databases/ports-readmes`
 * [OpenBSD Ports Readme](https://openports.pl/) - [maintained by @solene](https://dataswamp.org/~solene/2022-10-21-openports.pl.html)
 * [OpenBSD.app package search](https://openbsd.app/) - maintained by [@qbit](https://github.com/qbit/openbsd.app)
 * [M:Tier's OpenBSD packages and binpatches](https://stable.mtier.org/) - security updates in both packages and base system
