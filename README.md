@@ -121,7 +121,6 @@
 
 ## Jobs
 
-- [StackOverflow](https://stackoverflow.com/jobs?searchTerm=openbsd)
 - [jobs@lists.nycbug.org](https://lists.nycbug.org/mailman/listinfo/jobs)
 
 ## Community
@@ -133,18 +132,15 @@
 
 * [Undeadly](https://undeadly.org/) - OpenBSD Journal
 * [OpenBSD Webzine](https://webzine.puffy.cafe/)
-* [Planet OpenBSD](https://bronevichok.ru/openbsdnow/) - [src repo](https://github.com/ligurio/openbsdnow.org)
 * [Lobsters OpenBSD tag](https://lobste.rs/t/openbsd)
 * [Reddit /r/openbsd](https://reddit.com/r/openbsd/)
 
 ### Conferences
 
 - [EuroBSDCon](https://eurobsdcon.org/)
-- [NYCBSDCon](https://www.nycbsdcon.org/)
 - [AsiaBSDCon](https://asiabsdcon.org)
 - [BSDCan](https://www.bsdcan.org/)
 - [vBSDCon](https://www.verisign.com/en_US/internet-technology-news/verisign-events/vbsdcon/index.xhtml)
-- [OpenKyiv](https://www.uaoug.org.ua/openkyiv/)
 - [BSDTW](https://bsdtw.org/)
 - [bhyvecon](https://bhyvecon.org/)
 - BSD devroom at FOSDEM ([Twitter](https://twitter.com/fosdembsd))
