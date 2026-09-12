@@ -232,6 +232,9 @@
 * Antoine Jacoutot (ajacoutot@) [beastie.pl](https://web.archive.org/web/20160304052709/http://beastie.pl/deweloperzy-openbsd-antoine-jacoutot/)
 * Stefan Sperling (stsp@) [beastie.pl](https://web.archive.org/web/20160304044753/http://beastie.pl/deweloperzy-openbsd-stefan-sperling/)
 
+## Blogs
+* Özgür Konstantin Kazanççı (ozgurkazancci@) [ozgurkazancci.com](https://ozgurkazancci.com)
+
 ## OpenBSD Countries Communities
 
 * [OpenBSD Brazil](https://openbsd-br.org)
