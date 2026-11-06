@@ -171,6 +171,7 @@
 * `telegram` [OpenBSD Brazil](https://t.me/OpenBSDbr)
 * `telegram` [OpenBSD Spain](https://t.me/OpenBSD_es)
 * `telegram` [BSDar Argentina](https://t.me/BSDar)
+* `simplex` [OpenBSD](https://smp5.simplex.im/g#8Qa7S7YCVJlczxwzv7Oq1njErAosPsPTVga7RVTq-CQ)
 
 ### X (Twitter)
 
