@@ -34,6 +34,14 @@
 * [OpenBSD Project](https://www.openbsd.org/)
 * [OpenBSD Foundation](https://www.openbsdfoundation.org/)
 * [OpenBSD FAQ](https://www.openbsd.org/faq/)
+* [OpenBSD manual pages](https://man.openbsd.org/)
+* [OpenBSD source code](https://cvsweb.openbsd.org/)
+* [Download OpenBSD](https://www.openbsd.org/ftp.html) - mirrors and installation sets
+* [Security advisories](https://www.openbsd.org/security.html), [errata](https://www.openbsd.org/errata.html), and [security fixes in -current](https://www.openbsd.org/plus.html)
+* [OpenBSD Porter's Handbook](https://www.openbsd.org/faq/ports/)
+* [Packages and ports FAQ](https://www.openbsd.org/faq/faq15.html)
+* [Papers and presentations](https://www.openbsd.org/papers/)
+* [Events](https://www.openbsd.org/events.html)
 * OpenBSD Umbrella:
   * [OpenSSH](https://www.openssh.com/) - the premier connectivity tool for remote login with the SSH protocol
   * [LibreSSL](https://www.libressl.org/) - a version of the TLS/crypto stack forked from OpenSSL in 2014, with goals of modernizing the codebase, improving security, and applying best practice development processes
@@ -57,6 +65,7 @@
 * [OpenBSD WIP](https://github.com/topics/openbsd-wip) - unofficial OpenBSD ports
 * [OpenBSD Ports Readme](https://openports.pl/) - [maintained by @solene](https://dataswamp.org/~solene/2022-10-21-openports.pl.html)
 * [OpenBSD.app package search](https://openbsd.app/) - maintained by [@qbit](https://codeberg.org/qbit/openbsd.app)
+* [ports.to](https://ports.to/) - OpenBSD packages and ports search
 * [portroach](https://portroach.openbsd.org/) - OpenBSD Ports Distfile Scanner
 * [Why OpenBSD rocks - The facts](https://why-openbsd.rocks/)
 * [OpenBSD Howto](https://www.bsdhowto.ch/)
