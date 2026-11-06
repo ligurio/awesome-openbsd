@@ -21,10 +21,10 @@
   * [Mastodon](#mastodon)
   * [Interviews with OpenBSD developers](#interviews-with-openbsd-developers)
   * [Blogs](#blogs)
-  * [OpenBSD Countries Communities](#openbsd-countries-communities)
+  * [OpenBSD communities by country](#openbsd-communities-by-country)
 * [Selected articles](#selected-articles)
 * [Videos](#videos)
-* [Third party repositories](#third-party-repositories)
+* [Third-party repositories](#third-party-repositories)
 * [OpenBSD Provisioning](#openbsd-provisioning)
 * [Portable OpenBSD Components](#portable-openbsd-components)
 * [OpenBSD Developers](#openbsd-developers)
@@ -54,8 +54,8 @@
 
 ## Projects around OpenBSD
 
-* [OpenBSD GIT mirrors](https://github.com/openbsd/) - OpenBSD CVS repository conversions for public consumpiton (managed by OpenBSD hackers)
-* [OpenBSD Testing Infrastructure](http://bluhm.genua.de/) -  infrastructure for semi-automatic testing of source code changes
+* [OpenBSD Git mirrors](https://github.com/openbsd/) - OpenBSD CVS repository conversions for public consumption (managed by OpenBSD hackers)
+* [OpenBSD Testing Infrastructure](http://bluhm.genua.de/) - infrastructure for semi-automatic testing of source code changes
 * [OpenBSD Kernel fuzzer](https://syzkaller.appspot.com/openbsd) - kernel fuzzer, syzkaller, uses declarative description of syscall interfaces to manipulate programs (sequences of syscalls).
 * [OpenBSD dmesg collection](https://dmesgd.nycbug.org/index.cgi?do=index&fts=OpenBSD) - user-submitted repository of OpenBSD dmesgs.
 * [Hardware for OpenBSD](https://bsd-hardware.info/?d=OpenBSD) - anonymously collect hardware details of BSD-powered computers.
@@ -71,18 +71,18 @@
 * [OpenBSD Howto](https://www.bsdhowto.ch/)
 * [OpenBSD Router Guide](https://openbsdrouterguide.net/)
 
-## OpenBSD stats
+## OpenBSD Stats
 
 * [OpenBSD stats](http://www.oxide.org/cvs) - CVS commit stats
 * [OpenBSD releases EOL](https://endoflife.date/openbsd)
 
 ## OpenBSD-based projects
 
-- `closed-source` [genua](https://www.genua.de/) offers sophisticated IT security solutions based on OpenBSD: The two-tier genugate system is the only firewall certified by the German Federal Office for Information Security (BSI) at E3 / high level under the ITSEC international standard.
-- `closed-source` [Calyptix Security](https://www.calyptix.com/products/models/) - firewall to protect and manage SMB networks. See [slides](http://www.nycbsdcon.org/2010/presentations/lteo-nycbsdcon2010.pdf).
-- `closed-source` [M:Tier](https://www.mtier.org/about-us/): OpenBSD thin client ([slides](http://www.mtier.org/assets/Uploads/latinoware-2013.pdf)), OpenBSD enterprise desktop for Fortune 500 companies ([slides](https://www.openbsd.org/papers/opencon07-gnome.pdf) and [article](https://undeadly.org/cgi?action=article&sid=20110420080633)), and [Long Term Support](https://www.mtier.org/).
-- `opensource` [reflash](https://stable.rcesoftware.com/resflash/)
-- `opensource` [FuguIta](https://fuguita.org/) is a live system based on OpenBSD that is designed to run from removable media. Note a portion of documentation is only available in Japanese.
+* `closed-source` [genua](https://www.genua.de/) offers sophisticated IT security solutions based on OpenBSD: The two-tier genugate system is the only firewall certified by the German Federal Office for Information Security (BSI) at E3 / high level under the ITSEC international standard.
+* `closed-source` [Calyptix Security](https://www.calyptix.com/products/models/) - firewall to protect and manage SMB networks. See [slides](http://www.nycbsdcon.org/2010/presentations/lteo-nycbsdcon2010.pdf).
+* `closed-source` [M:Tier](https://www.mtier.org/about-us/): OpenBSD thin client ([slides](http://www.mtier.org/assets/Uploads/latinoware-2013.pdf)), OpenBSD enterprise desktop for Fortune 500 companies ([slides](https://www.openbsd.org/papers/opencon07-gnome.pdf) and [article](https://undeadly.org/cgi?action=article&sid=20110420080633)), and [Long Term Support](https://www.mtier.org/).
+* `opensource` [resflash](https://stable.rcesoftware.com/resflash/)
+* `opensource` [FuguIta](https://fuguita.org/) is a live system based on OpenBSD that is designed to run from removable media. Note a portion of documentation is only available in Japanese.
 
 ## Hosting
 
@@ -90,7 +90,7 @@
 * `kvm` [RootBSD](https://www.rootbsd.net/)
 * `kvm` [ARP Networks](https://www.arpnetworks.com/)
 * `kvm` [RamNode](https://ramnode.com/)
-* `kvm` [Digital Ocean](https://www.digitalocean.com) ([How-To](https://www.going-flying.com/blog/openbsd-on-digitalocean.html))
+* `kvm` [DigitalOcean](https://www.digitalocean.com) ([How-To](https://www.going-flying.com/blog/openbsd-on-digitalocean.html))
 * `kvm` [Vultr](https://www.vultr.com/docs/setup-openbsd)
 * `kvm` [Hetzner](https://wiki.hetzner.de/index.php/OpenBSD)
 * `kvm` [BuyVM](https://buyvm.net/operating-systems/bsd-family/)
@@ -104,7 +104,7 @@
 * `xen` [Amazon EC2](https://gist.github.com/reyk/b372af303eb86bab3fee#file-openbsd-amd64-20160809-aws)
 * `xen` [AWS-OpenBSD](https://github.com/ajacoutot/aws-openbsd) - AWS playground for OpenBSD kids
 * `xen` [TornadoVPS](https://tornadovps.com/) ([How-To Setup](https://tornadovps.com/documentation/openbsd), formerly prgmr.com)
-* `hyper-v` [Azure Devops](https://gist.github.com/reyk/f6d2c7b9567cae7b4270)
+* `hyper-v` [Azure DevOps](https://gist.github.com/reyk/f6d2c7b9567cae7b4270)
 * `shell` [Devio.us](https://devio.us/)
 * `shell` [Polarhome](http://www.polarhome.com/)
 * `shell` [Free Shell Accounts](https://shells.red-pill.eu/)
@@ -117,12 +117,12 @@
 
 ## CI
 
-- [Cirrus CI](https://cirrus-ci.org/) - FreeBSD support, OpenBSD support in progress
-- [Sourcehut](https://man.sr.ht/builds.sr.ht/compatibility.md#openbsd) - OpenBSD, FreeBSD and NetBSD support
-- GitLab ([HowTo](https://frankgroeneveld.nl/2016/04/06/using-gitlab-ci-multi-runner-on-openbsd/))
-- GitHub action [vmactions/openbsd-vm](https://github.com/vmactions/openbsd-vm)
-- GitHub action [cross-platform-actions/action](https://github.com/cross-platform-actions/action) - OpenBSD, FreeBSD and NetBSD support
-- [MinCI](https://github.com/kristapsdz/minci)
+* [Cirrus CI](https://cirrus-ci.org/) - FreeBSD support, OpenBSD support in progress
+* [Sourcehut](https://man.sr.ht/builds.sr.ht/compatibility.md#openbsd) - OpenBSD, FreeBSD and NetBSD support
+* GitLab ([HowTo](https://frankgroeneveld.nl/2016/04/06/using-gitlab-ci-multi-runner-on-openbsd/))
+* GitHub action [vmactions/openbsd-vm](https://github.com/vmactions/openbsd-vm)
+* GitHub action [cross-platform-actions/action](https://github.com/cross-platform-actions/action) - OpenBSD, FreeBSD and NetBSD support
+* [MinCI](https://github.com/kristapsdz/minci)
 
 ## Community
 
@@ -138,22 +138,22 @@
 
 ### Conferences
 
-- [EuroBSDCon](https://eurobsdcon.org/)
-- [AsiaBSDCon](https://asiabsdcon.org)
-- [BSDCan](https://www.bsdcan.org/)
-- [bhyvecon](https://bhyvecon.org/)
-- [BSD devroom at FOSDEM](https://fosdem.org/)
+* [EuroBSDCon](https://eurobsdcon.org/)
+* [AsiaBSDCon](https://asiabsdcon.org)
+* [BSDCan](https://www.bsdcan.org/)
+* [bhyvecon](https://bhyvecon.org/)
+* [BSD devroom at FOSDEM](https://fosdem.org/)
 
-### BSD User groups
+### BSD user groups
 
-- https://www.meetup.com/topics/bsd/
-- https://www.freebsd.org/usergroups.html
-- https://www.openbsd.org/groups.html
-- https://www.netbsd.org/community/groups.html
+* [Meetup BSD groups](https://www.meetup.com/topics/bsd/)
+* [FreeBSD user groups](https://www.freebsd.org/usergroups.html)
+* [OpenBSD user groups](https://www.openbsd.org/groups.html)
+* [NetBSD user groups](https://www.netbsd.org/community/groups.html)
 
 ### Mailing lists
 
-* https://www.openbsd.org/mail.html
+* [OpenBSD mailing lists](https://www.openbsd.org/mail.html)
 * [MARC](https://marc.info/):
   * [openbsd-tech](https://marc.info/?l=openbsd-tech)
   * [openbsd-cvs](https://marc.info/?l=openbsd-cvs)
@@ -207,9 +207,9 @@
 * Daniel Hartmeier [onlamp](https://web.archive.org/web/20090108231624/http://www.onlamp.com/pub/a/bsd/2004/04/15/pf_developers.html)
 * Joris Vink [bsdtalk](https://archive.org/details/bsdtalk050)
 * Robert Nagy [The Document Foundation](https://blog.documentfoundation.org/blog/2011/01/21/developer-interview-robert-nagy/)
-* Joshua Stein [The Setup](https://usesthis.com/interviews/joshua.stein/), [beastie.pl]( https://web.archive.org/web/20160304043723/http://beastie.pl/deweloperzy-openbsd-joshua-stein/)
+* Joshua Stein [The Setup](https://usesthis.com/interviews/joshua.stein/), [beastie.pl](https://web.archive.org/web/20160304043723/http://beastie.pl/deweloperzy-openbsd-joshua-stein/)
 * Marc Espie [linuxfr.org](https://linuxfr.org/news/entretien-avec-des-d%C3%A9veloppeurs-francophones-dopenbsd-partie-1), [beastie.pl](https://web.archive.org/web/20160404154248/http://beastie.pl/deweloperzy-openbsd-marc-espie/)
-* Gilles Chehade [bronevichok.ru](https://bronevichok.ru/blog/2014/07/29/testing-of-opensmtpd.html), [beastie.pl](https://web.archive.org/web/20160304040101/http://beastie.pl/deweloperzy-openbsd-gilles-chehade/ )
+* Gilles Chehade [bronevichok.ru](https://bronevichok.ru/blog/2014/07/29/testing-of-opensmtpd.html), [beastie.pl](https://web.archive.org/web/20160304040101/http://beastie.pl/deweloperzy-openbsd-gilles-chehade/)
 * Henning Brauer [IOException.de](http://tmp.marmaro.de/www.ioexception.de/2013/10/16/interview-henning-brauer/index.html), [beastie.pl](https://web.archive.org/web/20160304040842/http://beastie.pl/deweloperzy-openbsd-henning-brauer/)
 * Mike Larkin [bsdtalk](https://bsdtalk.blogspot.ru/2010/08/bsdtalk195-mike-larkin.html)
 * Anil Madhavapeddy [FOSDEM](https://archive.fosdem.org/2012/interview/anil-madhavapeddy.html)
@@ -236,7 +236,7 @@
 * [x61.sh](https://x61.sh/log/) - OpenBSD how-tos
 * [Tumfatig's blog](https://www.tumfatig.net/) - BSD and OpenBSD notes
 
-### OpenBSD Countries Communities
+### OpenBSD communities by country
 
 * [OpenBSD Brazil](https://openbsd-br.org)
 * [OpenBSD Pour Tous (France)](https://openbsd.fr.eu.org/)
@@ -274,7 +274,7 @@
 * [The OpenBSD guy channel](https://www.youtube.com/@TheOpenBSDguy)
 * [BSD Now](https://www.bsdnow.tv/) - weekly BSD podcast and video
 
-## Third Party repositories
+## Third-party repositories
 
 * [OpenBSD wallpapers](https://github.com/raffaelschneider/openbsd-wallpapers/)
 * [Scripts to run an OpenBSD mirror](https://github.com/bluhm/mirror-openbsd)
@@ -287,17 +287,17 @@
 * [OpenBSD JumpStart](https://www.openbsdjumpstart.org/) - Learn to tame OpenBSD quickly
 * [OpenBSD and you](https://home.nuug.no/~peter/openbsd_and_you/) - How to have fun with the world’s most important free software project (by Peter Hansteen)
 * [PF and Networking Tutorial](https://home.nuug.no/~peter/pftutorial/) - on BSDCan 2018 by Peter Hansteen and Massimiliano Stucchi
-* [OpenBSD Daily](https://blog.tintagel.pl/2017/06/09/openbsd-daily.html) - [mulander/openbsd-daily](https://github.com/mulander/openbsd-daily) - official repository with all openbsd-daily reading by mulander and duncaen
+* [OpenBSD Daily](https://blog.tintagel.pl/2017/06/09/openbsd-daily.html) - [mulander/openbsd-daily](https://github.com/mulander/openbsd-daily): readings by mulander and duncaen
 
 ## OpenBSD Provisioning
 
-* https://github.com/ligurio/openbsd-cookbooks
-* https://git.sr.ht/~gonzalo/ansible-role-mailserver
-* https://git.sr.ht/~gonzalo/vmm_setup
-* https://github.com/martinbaillie/homebrew-openbsd-pcengines-router/
-* https://github.com/northox/openbsd-apu2
-* https://github.com/elad/openbsd-apu2
-* https://github.com/codeghar/openbsd-on-erl
+* [openbsd-cookbooks](https://github.com/ligurio/openbsd-cookbooks)
+* [ansible-role-mailserver](https://git.sr.ht/~gonzalo/ansible-role-mailserver)
+* [vmm_setup](https://git.sr.ht/~gonzalo/vmm_setup)
+* [homebrew-openbsd-pcengines-router](https://github.com/martinbaillie/homebrew-openbsd-pcengines-router/)
+* [northox/openbsd-apu2](https://github.com/northox/openbsd-apu2)
+* [elad/openbsd-apu2](https://github.com/elad/openbsd-apu2)
+* [openbsd-on-erl](https://github.com/codeghar/openbsd-on-erl)
 * [vedetta](https://github.com/vedetta-com/vedetta) - OpenBSD Router Boilerplate
 * [caesonia](https://github.com/vedetta-com/caesonia) - OpenBSD Email Service (there's also a [Playbook for Caesonia](https://github.com/vedetta-com/ansible-role-caesonia))
 * [fvwm-config-on-openbsd](https://github.com/bfmartin/fvwm-config-on-openbsd) - Configuration files for the FVWM window manager on a modern OpenBSD
@@ -317,39 +317,39 @@
 
 ## OpenBSD Developers
 
-- https://github.com/fcambus
-- https://github.com/mbelop
-- https://github.com/omoerbeek
-- jcs@ https://github.com/jcs
-- djm@ https://github.com/djmdjm
-- bluhm@ https://github.com/bluhm
-- https://github.com/pirofti
-- https://github.com/kristapsdz
-- https://github.com/semarie
-- https://github.com/jasperla
-- https://github.com/ajacoutot
-- https://github.com/bob-beck
-- https://github.com/afresh1
-- https://github.com/yasuoka
-- https://github.com/reyk
-- https://github.com/shadchin
-- https://github.com/vext01
-- https://github.com/tedu
-- https://github.com/grayed
-- https://github.com/nicm
-- https://github.com/mfriedl
-- https://github.com/hallexander
-- https://github.com/ratchov
-- https://github.com/ischwarze
-- https://github.com/qbit
-- https://github.com/cjeker
-- https://github.com/rnagy
-- https://github.com/millert
-- https://github.com/poolpOrg
-- https://github.com/busterb
-- https://github.com/marcespie
-- https://github.com/bsdkurt
-- https://github.com/bentley
+* [@fcambus](https://github.com/fcambus)
+* [@mbelop](https://github.com/mbelop)
+* [@omoerbeek](https://github.com/omoerbeek)
+* [jcs@](https://github.com/jcs)
+* [djm@](https://github.com/djmdjm)
+* [bluhm@](https://github.com/bluhm)
+* [@pirofti](https://github.com/pirofti)
+* [@kristapsdz](https://github.com/kristapsdz)
+* [@semarie](https://github.com/semarie)
+* [@jasperla](https://github.com/jasperla)
+* [@ajacoutot](https://github.com/ajacoutot)
+* [@bob-beck](https://github.com/bob-beck)
+* [@afresh1](https://github.com/afresh1)
+* [@yasuoka](https://github.com/yasuoka)
+* [@reyk](https://github.com/reyk)
+* [@shadchin](https://github.com/shadchin)
+* [@vext01](https://github.com/vext01)
+* [@tedu](https://github.com/tedu)
+* [@grayed](https://github.com/grayed)
+* [@nicm](https://github.com/nicm)
+* [@mfriedl](https://github.com/mfriedl)
+* [@hallexander](https://github.com/hallexander)
+* [@ratchov](https://github.com/ratchov)
+* [@ischwarze](https://github.com/ischwarze)
+* [@qbit](https://github.com/qbit)
+* [@cjeker](https://github.com/cjeker)
+* [@rnagy](https://github.com/rnagy)
+* [@millert](https://github.com/millert)
+* [@poolpOrg](https://github.com/poolpOrg)
+* [@busterb](https://github.com/busterb)
+* [@marcespie](https://github.com/marcespie)
+* [@bsdkurt](https://github.com/bsdkurt)
+* [@bentley](https://github.com/bentley)
 
 ----
 Please [donate](https://www.openbsd.org/donations.html) to the OpenBSD project.
