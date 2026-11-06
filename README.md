@@ -11,7 +11,6 @@
 * [Hosting](#hosting)
 * [Virtualization](#virtualization)
 * [CI](#ci)
-* [Jobs](#jobs)
 * [Community](#community)
   * [News](#news)
   * [Conferences](#conferences)
@@ -54,12 +53,10 @@
 * [Hardware for OpenBSD](https://bsd-hardware.info/?d=OpenBSD) - anonymously collect hardware details of BSD-powered computers.
 * [Unofficial OpenBSD Testing](https://github.com/ligurio/openbsd-tests/)
 * [mdoc.su](http://mdoc.su/) - URL shortener for BSD manual pages
-* [bxr.su](http://bxr.su/) - powerful search on OpenBSD, NetBSD and FreeBSD (and other project) code bases
 * [Status of OpenBSD mirrors](https://spacehopper.org/mirmon/top.html)
 * [OpenBSD WIP](https://github.com/topics/openbsd-wip) - unofficial OpenBSD ports
 * [OpenBSD Ports Readme](https://openports.pl/) - [maintained by @solene](https://dataswamp.org/~solene/2022-10-21-openports.pl.html)
-* [OpenBSD.app package search](https://openbsd.app/) - maintained by [@qbit](https://github.com/qbit/openbsd.app)
-* [M:Tier's OpenBSD packages and binpatches](https://stable.mtier.org/) - security updates in both packages and base system
+* [OpenBSD.app package search](https://openbsd.app/) - maintained by [@qbit](https://codeberg.org/qbit/openbsd.app)
 * [portroach](https://portroach.openbsd.org/) - OpenBSD Ports Distfile Scanner
 * [Why OpenBSD rocks - The facts](https://why-openbsd.rocks/)
 * [OpenBSD Howto](https://www.bsdhowto.ch/)
@@ -68,14 +65,13 @@
 ## OpenBSD stats
 
 * [OpenBSD stats](http://www.oxide.org/cvs) - CVS commit stats
-* [OpenBSD community metrics](https://github.com/ligurio/notebooks/tree/master/oss-metrics/OpenBSD)
 * [OpenBSD releases EOL](https://endoflife.date/openbsd)
 
 ## OpenBSD-based projects
 
 - `closed-source` [genua](https://www.genua.de/) offers sophisticated IT security solutions based on OpenBSD: The two-tier genugate system is the only firewall certified by the German Federal Office for Information Security (BSI) at E3 / high level under the ITSEC international standard.
 - `closed-source` [Calyptix Security](https://www.calyptix.com/products/models/) - firewall to protect and manage SMB networks. See [slides](http://www.nycbsdcon.org/2010/presentations/lteo-nycbsdcon2010.pdf).
-- `closed-source` [M:Tier](https://www.mtier.org/about-us/): OpenBSD thin client ([slides](http://www.mtier.org/assets/Uploads/latinoware-2013.pdf)), OpenBSD enterprise desktop for Fortune 500 companies ([slides](https://www.openbsd.org/papers/opencon07-gnome.pdf) and [article](https://undeadly.org/cgi?action=article&sid=20110420080633)), [Long Term Support subscription](https://stable.mtier.org/subscriptions).
+- `closed-source` [M:Tier](https://www.mtier.org/about-us/): OpenBSD thin client ([slides](http://www.mtier.org/assets/Uploads/latinoware-2013.pdf)), OpenBSD enterprise desktop for Fortune 500 companies ([slides](https://www.openbsd.org/papers/opencon07-gnome.pdf) and [article](https://undeadly.org/cgi?action=article&sid=20110420080633)), and [Long Term Support](https://www.mtier.org/).
 - `opensource` [reflash](https://stable.rcesoftware.com/resflash/)
 - `opensource` [FuguIta](https://fuguita.org/) is a live system based on OpenBSD that is designed to run from removable media. Note a portion of documentation is only available in Japanese.
 
@@ -118,10 +114,6 @@
 - GitHub action [cross-platform-actions/action](https://github.com/cross-platform-actions/action) - OpenBSD, FreeBSD and NetBSD support
 - Travis CI ([Running FreeBSD in Travis-CI](https://erouault.blogspot.com/2016/09/running-freebsd-in-travis-ci.html))
 - MinCI https://github.com/kristapsdz/minci
-
-## Jobs
-
-- [jobs@lists.nycbug.org](https://lists.nycbug.org/mailman/listinfo/jobs)
 
 ## Community
 
@@ -209,13 +201,13 @@
 * Stefan Sperling [distrowatch](https://distrowatch.com/weekly.php?issue=20100517#feature)
 * Bob Beck [bsdtalk](https://bsdtalk.blogspot.ru/2006/09/bsdtalk068-interview-with-openbsd.html)
 * Marco Peereboom [bsdtalk](https://archive.org/details/bsdtalk027)
-* Daniel Hartmeier [onlamp](https://www.onlamp.com/pub/a/bsd/2004/04/15/pf_developers.html)
+* Daniel Hartmeier [onlamp](https://web.archive.org/web/20090108231624/http://www.onlamp.com/pub/a/bsd/2004/04/15/pf_developers.html)
 * Joris Vink [bsdtalk](https://archive.org/details/bsdtalk050)
 * Robert Nagy [The Document Foundation](https://blog.documentfoundation.org/blog/2011/01/21/developer-interview-robert-nagy/)
 * Joshua Stein [The Setup](https://usesthis.com/interviews/joshua.stein/), [beastie.pl]( https://web.archive.org/web/20160304043723/http://beastie.pl/deweloperzy-openbsd-joshua-stein/)
 * Marc Espie [linuxfr.org](https://linuxfr.org/news/entretien-avec-des-d%C3%A9veloppeurs-francophones-dopenbsd-partie-1), [beastie.pl](https://web.archive.org/web/20160404154248/http://beastie.pl/deweloperzy-openbsd-marc-espie/)
 * Gilles Chehade [bronevichok.ru](https://bronevichok.ru/blog/2014/07/29/testing-of-opensmtpd.html), [beastie.pl](https://web.archive.org/web/20160304040101/http://beastie.pl/deweloperzy-openbsd-gilles-chehade/ )
-* Henning Brauer [IOException.de](https://tmp.marmaro.de/www.ioexception.de/2013/10/16/interview-henning-brauer/index.html), [beastie.pl](https://web.archive.org/web/20160304040842/http://beastie.pl/deweloperzy-openbsd-henning-brauer/)
+* Henning Brauer [IOException.de](http://tmp.marmaro.de/www.ioexception.de/2013/10/16/interview-henning-brauer/index.html), [beastie.pl](https://web.archive.org/web/20160304040842/http://beastie.pl/deweloperzy-openbsd-henning-brauer/)
 * Mike Larkin [bsdtalk](https://bsdtalk.blogspot.ru/2010/08/bsdtalk195-mike-larkin.html)
 * Anil Madhavapeddy [FOSDEM](https://archive.fosdem.org/2012/interview/anil-madhavapeddy.html)
 * Pierre-Yves Ritschard [bsdtalk](http://bsdtalk.blogspot.ru/2007/02/bsdtalk097-openbsd-developer-pierre.html)
@@ -240,20 +232,18 @@
 ## Selected articles
 
 * [Keeping Your OpenBSD System In Trim: A Works For Me Guide](https://bsdly.blogspot.com/2012/07/keeping-your-openbsd-system-in-trim.html)
-* [OpenBSD Workstation Guide](https://begriffs.com/posts/2017-05-17-openbsd-workstation-guide.html)
+* [OpenBSD Workstation Guide](https://web.archive.org/web/20190223233854/https://begriffs.com/posts/2017-05-17-openbsd-workstation-guide.html)
 * [OpenBSD on a Laptop](https://www.c0ffee.net/blog/openbsd-on-a-laptop/)
 * [Installing OpenBSD on your laptop is really hard (not)](http://www.k58.uk/openbsd.html)
 * [OpenBSD: why and how](https://sivers.org/openbsd)
 * [Configuring SNMP v3 on OpenBSD 6.4](https://thefreecountry.wordpress.com/2018/11/27/configuring-snmp-v3-on-openbsd-6-4/)
 * [An OpenBSD Workstation](https://eradman.com/posts/openbsd-workstation.html)
-* [Enlightenment on OpenBSD](https://enform.haxlab.org/)
+* [Enlightenment on OpenBSD](https://web.archive.org/web/20181227182939/http://enform.haxlab.org/)
 * [An awesome OpenBSD 6.1 desktop](https://github.com/WyldePointer/openbsd-desktop) (XFCE)
-* [OpenBSD Gaming Resource](https://mrsatterly.com/openbsd_games.html)
+* [OpenBSD Gaming Resource](https://web.archive.org/web/20180217023211/https://mrsatterly.com/openbsd_games.html)
 * [Screencasting with OpenBSD](https://eradman.com/posts/screencasting.html)
 * [OpenBSD's Autoinstall](https://eradman.com/posts/autoinstall-openbsd.html)
-* [Fail2ban on OpenBSD 6.0](https://blog.gordonturner.ca/2016/11/20/fail2ban-on-openbsd-6-0/)
 * [Getting OpenBSD running on Raspberry Pi 3](https://undeadly.org/cgi?action=article&sid=20170409123528)
-* [A simple first server](https://blog.hermes-technology.de/openbsd/server/2017/06/06/a-first-server.html) - A series of posts about OpenBSD server configuration for learning purposes
 * [OpenBSD manpages reading list](https://gist.github.com/QWxleA/0a3e28f4a3387e5087e8f3608c32fd03)
 * [OpenBSD porting workshop, August 11, 2018](https://www.twitch.tv/videos/296003844) - twitch.tv video by bcallah@
 * [Debian on OpenBSD vmd (without qemu or another debian system)](https://www.netzbasis.de/openbsd/vmd-debian/)
@@ -275,12 +265,11 @@
 
 * [OpenBSD wallpapers](https://github.com/raffaelschneider/openbsd-wallpapers/)
 * [Scripts to run an OpenBSD mirror](https://github.com/bluhm/mirror-openbsd)
-* [snap, an OpenBSD upgrade tool](https://github.com/qbit/snap)
-* [upobsd](https://bitbucket.org/semarie/upobsd/) - download, verify and patch bsd.rd image
+* [snap, an OpenBSD upgrade tool](https://codeberg.org/qbit/snap)
+* [upobsd](https://github.com/semarie/upobsd) - download, verify and patch bsd.rd image
 * [dyndnsd](https://github.com/mario-campos/dyndnsd) - Dynamic DNS Daemon for OpenBSD
 * [OpenMDNS](https://github.com/haesbaert/mdnsd) - [Mdns daemon for OpenBSD](http://www.haesbaert.org/openmdns/)
 * [awesome pledge(2)](https://github.com/PeterTonoli/awesome-pledge)
-* [Support of OpenBSD pledge(2) in programming languages](https://gist.github.com/ligurio/f6114bd1df371047dd80ea9b8a55c104)
 * [A collection of awesome BSD related stuff](https://github.com/DiscoverBSD/awesome-bsd)
 * [OpenBSD JumpStart](https://www.openbsdjumpstart.org/) - Learn to tame OpenBSD quickly
 * [OpenBSD and you](https://home.nuug.no/~peter/openbsd_and_you/) - How to have fun with the world’s most important free software project (by Peter Hansteen)
@@ -291,18 +280,15 @@
 
 * https://github.com/ligurio/openbsd-cookbooks
 * https://git.sr.ht/~gonzalo/ansible-role-mailserver
-* https://git.sr.ht/~gonzalo/apu2_setup
 * https://git.sr.ht/~gonzalo/vmm_setup
 * https://github.com/martinbaillie/homebrew-openbsd-pcengines-router/
 * https://github.com/northox/openbsd-apu2
 * https://github.com/elad/openbsd-apu2
-* https://github.com/cullum/dank-selfhosted
 * https://github.com/codeghar/openbsd-on-erl
 * [vedetta](https://github.com/vedetta-com/vedetta) - OpenBSD Router Boilerplate
 * [caesonia](https://github.com/vedetta-com/caesonia) - OpenBSD Email Service (there's also a [Playbook for Caesonia](https://github.com/vedetta-com/ansible-role-caesonia))
-* [dotfiles, sweet dotfiles](https://github.com/unbalancedparentheses/dotfiles)
 * [fvwm-config-on-openbsd](https://github.com/bfmartin/fvwm-config-on-openbsd) - Configuration files for the FVWM window manager on a modern OpenBSD
-* [ohmyksh](https://github.com/qbit/ohmyksh) - A framework for OpenBSD's ksh
+* [ohmyksh](https://codeberg.org/qbit/ohmyksh) - A framework for OpenBSD's ksh
 * [openbsd.run](https://openbsd.run/) - An OpenBSD-focused Ansible playbook embedded in type-annotated Python
 * [ksh-got-prompt](https://github.com/bfmartin/ksh-got-prompt) - Show the Status of a GOT Repository in a KSH Prompt
 
