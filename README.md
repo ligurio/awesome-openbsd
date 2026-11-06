@@ -17,7 +17,7 @@
   * [BSD user groups](#bsd-user-groups)
   * [Mailing lists](#mailing-lists)
   * [Chats](#chats)
-  * [Twitter](#twitter)
+  * [X (Twitter)](#x-twitter)
   * [Mastodon](#mastodon)
   * [Interviews with OpenBSD developers](#interviews-with-OpenBSD-developers)
   * [Blogs](#blogs)
@@ -96,15 +96,17 @@
 * `kvm` [BuyVM](https://buyvm.net/operating-systems/bsd-family/)
 * `kvm` [Exoscale](https://exoscale.com/)
 * `kvm` [BoxyBSD](https://boxybsd.com/)
+* `kvm` [Linode](https://www.linode.com/) ([How-To](https://text.causal.agency/027-openbsd-linode.txt))
+* `kvm` [Scaleway](https://www.scaleway.com/) ([How-To](https://poolp.org/posts/2026-10-31/openbsd-8.0-on-a-scaleway-instance/))
 * `kvm` [Google Compute Engine](https://marc.info/?l=openbsd-misc&m=138757967321855&w=2)
-* `kvm` [Data Center Light](https://twitter.com/reykfloeter/status/1146714795552509952)
+* `kvm` [Data Center Light](https://datacenterlight.ch/)
 * `kvm` [Tiny KVM](https://tinykvm.com/)
 * `xen` [Amazon EC2](https://gist.github.com/reyk/b372af303eb86bab3fee#file-openbsd-amd64-20160809-aws)
 * `xen` [AWS-OpenBSD](https://github.com/ajacoutot/aws-openbsd) - AWS playground for OpenBSD kids
-* `xen` [TornadoVPS](https://tornadovps.com/) ([How-To Setup](https://tornadovps.com/documentation/openbsd))(formerly prgmr.com)
+* `xen` [TornadoVPS](https://tornadovps.com/) ([How-To Setup](https://tornadovps.com/documentation/openbsd), formerly prgmr.com)
 * `hyper-v` [Azure Devops](https://gist.github.com/reyk/f6d2c7b9567cae7b4270)
 * `shell` [Devio.us](https://devio.us/)
-* `shell` [Polarhome](https://www.polarhome.com/)
+* `shell` [Polarhome](http://www.polarhome.com/)
 * `shell` [Free Shell Accounts](https://shells.red-pill.eu/)
 * `shell` [tilde.institute](https://tilde.institute/) of OpenBSD Education
 
@@ -115,14 +117,12 @@
 
 ## CI
 
-- [Appveyor](https://github.com/appveyor/ci/issues/2844) (In progress)
-- [Cirrus CI](https://cirrus-ci.org/features/) - [FreeBSD support](https://cirrus-ci.org/guide/supported-computing-services/), [OpenBSD support WIP](https://github.com/cirruslabs/cirrus-ci-docs/issues/311)
+- [Cirrus CI](https://cirrus-ci.org/) - FreeBSD support, OpenBSD support in progress
 - [Sourcehut](https://man.sr.ht/builds.sr.ht/compatibility.md#openbsd) - OpenBSD, FreeBSD and NetBSD support
-- GitLab ([HowTo](https://frankgroeneveld.nl/2016/04/06/using-gitlab-ci-multi-runner-on-openbsd/)), [sysutils/gitlab-runner](http://openbsd-archive.7691.n7.nabble.com/new-sysutils-gitlab-runner-td365939.html#a365948)
+- GitLab ([HowTo](https://frankgroeneveld.nl/2016/04/06/using-gitlab-ci-multi-runner-on-openbsd/))
 - GitHub action [vmactions/openbsd-vm](https://github.com/vmactions/openbsd-vm)
 - GitHub action [cross-platform-actions/action](https://github.com/cross-platform-actions/action) - OpenBSD, FreeBSD and NetBSD support
-- Travis CI ([Running FreeBSD in Travis-CI](https://erouault.blogspot.com/2016/09/running-freebsd-in-travis-ci.html))
-- MinCI https://github.com/kristapsdz/minci
+- [MinCI](https://github.com/kristapsdz/minci)
 
 ## Community
 
@@ -141,11 +141,8 @@
 - [EuroBSDCon](https://eurobsdcon.org/)
 - [AsiaBSDCon](https://asiabsdcon.org)
 - [BSDCan](https://www.bsdcan.org/)
-- [vBSDCon](https://www.verisign.com/en_US/internet-technology-news/verisign-events/vbsdcon/index.xhtml)
-- [BSDTW](https://bsdtw.org/)
 - [bhyvecon](https://bhyvecon.org/)
-- BSD devroom at FOSDEM ([Twitter](https://twitter.com/fosdembsd))
-- [NYCBSDCon](https://www.nycbsdcon.org) ([Twitter](https://twitter.com/nycbsdcon))
+- [BSD devroom at FOSDEM](https://fosdem.org/)
 
 ### BSD User groups
 
@@ -165,9 +162,7 @@
 
 ### Chats
 
-* `gitter` https://gitter.im/BSDs/OpenBSD
 * `irc` [#OpenBSD](https://web.libera.chat/?channels=#openbsd) on irc.libera.chat
-* `irc` [#OpenBSD-Russian](http://webchat.freenode.net?channels=%23openbsd-russian) on irc.freenode.net
 * `matrix` [OpenBSD](https://matrix.to/#/%23openbsd%3Amatrix.org)
 * `telegram` [OpenBSD Jumpstart](https://t.me/joinchat/EzTjLQuG8MdUSVqFS1xA4w)
 * `telegram` [OpenBSD English](https://t.me/openbsd_en)
@@ -177,7 +172,7 @@
 * `telegram` [OpenBSD Spain](https://t.me/OpenBSD_es)
 * `telegram` [BSDar Argentina](https://t.me/BSDar)
 
-### Twitter
+### X (Twitter)
 
 * [@OpenBSD](https://twitter.com/OpenBSD)
 * [OpenBSD Commits To Twitter](https://github.com/afresh1/openbsd-commits-to-twitter) (maintained by [Andrew Fresh](https://twitter.com/afresh1))
@@ -193,7 +188,6 @@
 * [@phessler](https://bsd.network/@phessler) - bsd.network's admin
 * [@AFresh1](https://bsd.network/@AFresh1)
 * [@bcallah](https://bsd.network/@bcallah)
-* [@romanzolotarev](https://bsd.network/@romanzolotarev)
 * [@akpoff](https://bsd.network/@akpoff)
 * [@brynet](https://bsd.network/@brynet)
 * [@h3artbl33d](https://bsd.network/@h3artbl33d)
@@ -269,6 +263,7 @@
 * [An Introduction to OpenBSD](https://www.youtube.com/watch?v=EkDVKthufAM)
 * [OpenBSD talks, interviews and guides](https://www.youtube.com/playlist?list=PLbET-7keUM8qdq16cDrx-dw2SVXBLH4hk)
 * [The OpenBSD guy channel](https://www.youtube.com/@TheOpenBSDguy)
+* [BSD Now](https://www.bsdnow.tv/) - weekly BSD podcast and video
 
 ## Third Party repositories
 
