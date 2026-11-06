@@ -19,7 +19,7 @@
   * [Chats](#chats)
   * [X (Twitter)](#x-twitter)
   * [Mastodon](#mastodon)
-  * [Interviews with OpenBSD developers](#interviews-with-OpenBSD-developers)
+  * [Interviews with OpenBSD developers](#interviews-with-openbsd-developers)
   * [Blogs](#blogs)
   * [OpenBSD Countries Communities](#openbsd-countries-communities)
 * [Selected articles](#selected-articles)
@@ -227,7 +227,16 @@
 * Antoine Jacoutot (ajacoutot@) [beastie.pl](https://web.archive.org/web/20160304052709/http://beastie.pl/deweloperzy-openbsd-antoine-jacoutot/)
 * Stefan Sperling (stsp@) [beastie.pl](https://web.archive.org/web/20160304044753/http://beastie.pl/deweloperzy-openbsd-stefan-sperling/)
 
-## OpenBSD Countries Communities
+### Blogs
+
+* [Peter Hansteen's blog](https://bsdly.blogspot.com/) - OpenBSD and BSD advocacy
+* [Solene's blog](https://dataswamp.org/~solene/) - OpenBSD tutorials and notes
+* [jcs@'s blog](https://jcs.org/) - OpenBSD development notes
+* [Eric Radman's blog](https://eradman.com/posts/) - OpenBSD articles and screencasts
+* [x61.sh](https://x61.sh/log/) - OpenBSD how-tos
+* [Tumfatig's blog](https://www.tumfatig.net/) - BSD and OpenBSD notes
+
+### OpenBSD Countries Communities
 
 * [OpenBSD Brazil](https://openbsd-br.org)
 * [OpenBSD Pour Tous (France)](https://openbsd.fr.eu.org/)
