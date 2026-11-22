@@ -66,6 +66,7 @@
 * [OpenBSD Ports Readme](https://openports.pl/) - [maintained by @solene](https://dataswamp.org/~solene/2022-10-21-openports.pl.html)
 * [OpenBSD.app package search](https://openbsd.app/) - maintained by [@qbit](https://codeberg.org/qbit/openbsd.app)
 * [ports.to](https://ports.to/) - OpenBSD packages and ports search
+* [SearchBSD](https://searchbsd.com/runs-on/openbsd) - directory of tools, apps and sites for OpenBSD and the other BSDs, filtered to OpenBSD
 * [portroach](https://portroach.openbsd.org/) - OpenBSD Ports Distfile Scanner
 * [Why OpenBSD rocks - The facts](https://why-openbsd.rocks/)
 * [OpenBSD Howto](https://www.bsdhowto.ch/)
